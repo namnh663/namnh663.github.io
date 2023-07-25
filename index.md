@@ -1,10 +1,19 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+description: "Portforlio"
+permalink: /
 ---
 
+# Nam, Nguyen Hoai
+{: .fs-9 }
+
 **Address**: Ho Chi Minh, Vietnam | **Email**: namnh663@gmail.com | **Mobile**: 086 909 1664
-{% include button.html text="GitHub" icon="github" link="https://github.com/namnh663" color="#444444" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/namnh663/" color="#007BB6" %}
+{: .fs-6 .fw-300 }
+
+[GitHub](https://github.com/namnh663){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[LinkedIn](https://www.linkedin.com/in/namnh663){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ### About Me
 
