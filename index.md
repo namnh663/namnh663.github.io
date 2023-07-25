@@ -116,7 +116,9 @@ Feature: Login
 
 #### Robot Framework Test Script
 
+Structure:
 
+<img src="https://raw.githubusercontent.com/namnh663/namnh663.github.io/main/assets/images/robot-structure.png" width="200" height="400">
 
 ```
 *** Settings ***
