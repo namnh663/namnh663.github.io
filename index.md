@@ -151,7 +151,15 @@ Blocked: Any status to move to this status
 
 Done: Any status to move to this status
 
-<img width="684" alt="bug-workflow" src="https://github.com/namnh663/namnh663.github.io/assets/74748329/ab2e5101-7b2a-4ac1-bf4a-2b4cf535461b">
+| **Transition** | **From status** | **Transition** | **To status** |
+| --- | --- | --- | --- |
+| Create | Open | ➜ | Handover |
+|  | Handover | ➜ | In Dev |
+|  | Handover | ➜ | Won't Fix |
+|  | In Dev | ➜ | Ready For QA |
+|  | Ready For QA | ➜ | In Test |
+|  | In Test | ➜ | Reopened |
+|  | Reopened | ➜ | In Dev |
 
 ### Familiar with Automation Testing Frameworks
 
