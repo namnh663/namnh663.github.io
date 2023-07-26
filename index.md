@@ -271,5 +271,3 @@ Done: Any status to move to this status
 |  | Ready For QA | ➜ | In Test |
 |  | In Test | ➜ | Reopened |
 |  | Reopened | ➜ | In Dev |
-
-### Familiar with Automation Testing Frameworks
