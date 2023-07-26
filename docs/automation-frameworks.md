@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Automation Frameworks
 nav_order: 2
 ---
 
