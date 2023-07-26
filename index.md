@@ -6,18 +6,17 @@ description: "Portforlio"
 permalink: /
 ---
 
-{: .warning }
-> Contact Info
->
-> **Address**: Binh Thanh, Ho Chi Minh, Vietnam
-> 
-> **Email**: namnh663@gmail.com
-> 
-> **Mobile**: (+84) 86 909 1664
+## Contact Info
+
+| Address        | Email          | Mobile |
+|:---------------|:---------------|:-------|
+| Binh Thanh, Ho Chi Minh, Vietnam           | namnh663@gmail.com | (+84) 86 909 1664  |
 
 [LinkedIn](https://www.linkedin.com/in/namnh663){: .btn .btn-blue }
 
-### About Me
+---
+
+## About Me
 
 - 5 years of experience in software testing
 - Familiar with manual testing and automation roles
@@ -29,7 +28,7 @@ permalink: /
 - Very serious and straightforward when working
 - Love to share and learn new technologies and trends in the software testing industry
 
-### Skills
+## Skills
 
 - Familiar with software development life cycle (SDLC) models, software testing life cycle (STLC), bug life cycle
 - Scrum insight - an agile project management framework
@@ -52,9 +51,9 @@ permalink: /
 - Performing demo sessions
 - Experienced in implementing test automation framework from scratch
 
-### Some Examples
+## Some Examples
 
-#### BDD Test Case
+### BDD Test Case
 
 Website: https://www.saucedemo.com/
 
@@ -116,7 +115,7 @@ Feature: Login
         | STANDARD_USER    | SECRET_SAUCE     |
 ```
 
-#### Bug
+### Bug
 
 **Context**: I get an error when I use a valid account to login, but I get the message that my account has been locked while I have never logged in wrong and no one is using my account to log in system
 
