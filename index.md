@@ -6,7 +6,7 @@ description: "Portforlio"
 permalink: /
 ---
 
-{: .highlight }
+{: .warning }
 > Contact Info
 >
 > **Address**: Binh Thanh, Ho Chi Minh, Vietnam
