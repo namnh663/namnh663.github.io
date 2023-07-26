@@ -6,10 +6,15 @@ description: "Portforlio"
 permalink: /
 ---
 
-**Address**: Ho Chi Minh, Vietnam | **Email**: namnh663@gmail.com | **Mobile**: 086 909 1664
-{: .fs-6 .fw-300 }
+{: .note-title }
+> Contact Info
+>
+> **Address**: Binh Thanh, Ho Chi Minh, Vietnam
+> **Email**: namnh663@gmail.com
+> **Mobile**: (+84) 86 909 1664
 
-[GitHub](https://github.com/namnh663){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[LinkedIn](https://www.linkedin.com/in/namnh663){: .btn .btn-blue }
+
 [LinkedIn](https://www.linkedin.com/in/namnh663){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ### About Me
