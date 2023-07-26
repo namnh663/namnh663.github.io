@@ -1,3 +1,9 @@
+---
+layout: default
+title: Configuration
+nav_order: 2
+---
+
 <img src="https://raw.githubusercontent.com/DevExpress/testcafe-gh-page-assets/master/src/images/testcafe-ogp-icon.png" width="100" height="50">
 <img src="https://media.licdn.com/dms/image/D5612AQEEuzfJisLm5w/article-cover_image-shrink_600_2000/0/1672650120051?e=2147483647&v=beta&t=ZzQpawm15K3ec6N_TjQQ3YKExeJd0I2tWDcc2OE6YGo" width="100" height="50">
 <img src="https://repository-images.githubusercontent.com/81226206/2392b041-2ddb-438c-91ae-4022cf7f4549" width="100" height="50">
