@@ -6,6 +6,23 @@ url: https://namnh663.github.io
 
 search_enabled: false
 
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 back_to_top: true
 back_to_top_text: "Back to top"
 
