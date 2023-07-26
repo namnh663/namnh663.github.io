@@ -6,7 +6,7 @@ description: "Portforlio"
 permalink: /
 ---
 
-{: .note-title }
+{: .note }
 > Contact Info
 >
 > **Address**: Binh Thanh, Ho Chi Minh, Vietnam **Email**: namnh663@gmail.com **Mobile**: (+84) 86 909 1664
