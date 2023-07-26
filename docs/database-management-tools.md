@@ -6,26 +6,22 @@ nav_order: 4
 
 ## MySQL
 
-<img src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png" width="150" height="150">
+<img src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png" width="120" height="120">
 
 ### Connection
 
 | Sever | 103.191.146.31 |
-| --- | --- |
 | Port | 23307 |
 
 | User | dev1_qc |
-| --- | --- |
 | Password | TSC4qP1tmbXRok6UmaqN |
 | Display name | Dev 1 |
 
 | User | dev2_qc |
-| --- | --- |
 | Password | EAqlm6fiDvCUBV23YX0M |
 | Display name | Dev 2 |
 
 | User | devIntegrate_qc |
-| --- | --- |
 | Password | XSQsuNb0H7ulnuwiPFiZ |
 | Display name | Dev Integrate |
 
