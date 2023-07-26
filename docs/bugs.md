@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bugs
+nav_order: 3
+---
+
 ## Bug Report
 
 **Context**: I get an error when I use a valid account to login, but I get the message that my account has been locked while I have never logged in wrong and no one is using my account to log in system
