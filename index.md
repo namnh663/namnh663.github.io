@@ -1,13 +1,10 @@
 ---
 layout: default
-title: Home
+title: About
 nav_order: 1
 description: "Portforlio"
 permalink: /
 ---
-
-# Nam, Nguyen Hoai
-{: .fs-9 }
 
 **Address**: Ho Chi Minh, Vietnam | **Email**: namnh663@gmail.com | **Mobile**: 086 909 1664
 {: .fs-6 .fw-300 }
