@@ -6,6 +6,7 @@ nav_order: 3
 
 ## BDD Test Case
 
+{: .note }
 Website: https://www.saucedemo.com/
 
 Requirement:
