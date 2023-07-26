@@ -26,7 +26,7 @@ Let's assume I use Jira to create Bug
    | Environment | Test |
    | Platform | Web |
    | Browser | Chrome |
-   | Description | Given user go to 'https://www.saucedemo.com/'<br>When user enter 'standard_user' to username textbox<br>And user enter 'secret_sauce' to password textbox<br>And user click Login button<br>Then user see 'Epic sadface: Sorry, this user has been locked out.' error message<br>Expected:  User should go to home page |
+   | Description | Given user go to 'https://www.saucedemo.com/'<br>When user enter 'standard_user' to username textbox<br>And user enter 'secret_sauce' to password textbox<br>And user click Login button<br>Then user see 'Epic sadface: Sorry, this user has been locked out.' error message<br>**Expected**:  User should go to home page |
    | Related Issues | Login User Story |
    | Assignee | Andrew |
    | Reporter | Me |

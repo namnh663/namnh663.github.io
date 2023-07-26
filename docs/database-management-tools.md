@@ -1,3 +1,9 @@
+---
+layout: default
+title: Database Management Tools
+nav_order: 4
+---
+
 ## MySQL
 
 <img src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png" width="150" height="150">
