@@ -6,7 +6,17 @@ nav_order: 3
 
 ## BDD Test Case
 
-{: .note }
+{: .important-title }
+> Login User Story
+>
+> Website: https://www.saucedemo.com/
+>
+> Rule:
+>
+> Accepted usernames are: standard_user, locked_out_user, problem_user, performance_glitch_user
+>
+> Password for all users: secret_sauce
+
 Website: https://www.saucedemo.com/
 
 Requirement:
