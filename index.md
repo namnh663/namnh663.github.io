@@ -115,7 +115,42 @@ Feature: Login
 
 Structure:
 
-<img src="https://raw.githubusercontent.com/namnh663/namnh663.github.io/main/assets/images/robot-structure.png" width="200" height="400">
+```
+📦 
+.gitignore
+├─ .vscode
+settings.json
+├─ data
+│  ├─ messages.py
+│  └─ users.py
+readme.md
+resources
+│  ├─ page-objects
+│  │  ├─ elements
+│  │  │  ├─ cart_elements.py
+│  │  │  ├─ login_elements.py
+│  │  │  └─ products_elements.py
+│  │  └─ keywords
+│  │     ├─ cart_page.robot
+│  │     ├─ login_page.robot
+│  │     └─ products_page.robot
+│  └─ utils
+│     └─ custom_keywords.py
+├─ results
+│  ├─ log.html
+│  ├─ output.xml
+│  └─ report.html
+└─ tests
+   ├─ e2e
+   │  └─ checkout.robot
+   └─ functional
+      ├─ authentication
+      │  ├─ access_link.robot
+      │  └─ login.robot
+      └─ cart
+         ├─ add_item.robot
+         └─ display.robot
+```
 
 ```
 *** Settings ***
