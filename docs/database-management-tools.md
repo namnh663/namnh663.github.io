@@ -7,7 +7,7 @@ nav_order: 4
 ## Familiar With Database Tools
 
 | <img src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png" width="40" height="40"> | DbGate |
-| <img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" width="80" height="50"> | SQL Developer |
+| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" width="35" height="40"> | SQL Developer |
 
 ## Examples
 
