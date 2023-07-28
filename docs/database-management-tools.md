@@ -6,7 +6,7 @@ nav_order: 4
 
 ## Familiar With Database Tools
 
-<img src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png" width="52" height="52"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" width="45" height="50">
+<br> <img src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png" width="52" height="52"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" width="45" height="50">
 
 ## Examples
 
