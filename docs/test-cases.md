@@ -4,10 +4,6 @@ title: Test Cases
 nav_order: 5
 ---
 
-## BDD Test Case
-
-
-
 {: .important-title }
 > Login User Story
 >
@@ -34,7 +30,7 @@ Check List:
 12. User login failed when name is left blank but password is entered
 13. Error message appears above login button and does not close automatically
 
-Login Test Case:
+## BDD Test Case
 
 ```
 Feature: Login
@@ -74,3 +70,9 @@ Feature: Login
         | 1212121242344545 | !e45645645645677 |
         | STANDARD_USER    | SECRET_SAUCE     |
 ```
+
+## Qase Test Case
+
+User successfully logged in with correct username and password
+
+Steps to reproduce:
