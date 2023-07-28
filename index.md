@@ -8,9 +8,9 @@ permalink: /
 
 ## Contact Info
 
-| Address        | Email          | Mobile |
-|:---------------|:---------------|:-------|
-| Binh Thanh, Ho Chi Minh, Vietnam           | namnh663@gmail.com | (+84) 86 909 1664  |
+| Address        | Email          |
+|:---------------|:---------------|
+| Binh Thanh, Ho Chi Minh, Vietnam           | namnh663@gmail.com |
 
 [LinkedIn](https://www.linkedin.com/in/namnh663){: .btn .btn-blue }
 
