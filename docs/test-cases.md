@@ -76,3 +76,5 @@ Feature: Login
 User successfully logged in with correct username and password
 
 Steps to reproduce:
+
+![](https://raw.githubusercontent.com/namnh663/namnh663.github.io/main/assets/images/qase-test-case.png)
