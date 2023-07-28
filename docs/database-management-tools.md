@@ -4,14 +4,23 @@ title: Database Management Tools
 nav_order: 4
 ---
 
-## MySQL
+## Familiar With Database Tools
 
-<img src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png" width="120" height="120">
+| <img src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png" width="40" height="40"> | DbGate |
+| <img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" width="80" height="50"> | SQL Developer |
 
-### Connection
+## Examples
 
-| Sever | 103.191.146.31 |
-| Port | 23307 |
+### MySQL Using DbGate
+
+**Connection**:
+
+```
+-- Sever
+103.191.146.31
+-- Port
+23307
+```
 
 | User | dev1_qc |
 | Password | TSC4qP1tmbXRok6UmaqN |
@@ -25,7 +34,7 @@ nav_order: 4
 | Password | XSQsuNb0H7ulnuwiPFiZ |
 | Display name | Dev Integrate |
 
-### Query
+**Query**:
 
 ```sql
 -- Drop foreign key DTTariffMainItems
@@ -106,8 +115,6 @@ OR `SupplierId`='SUP0301909173'
 OR `SupplierId`='SUP0302511219'
 );
 ```
-
-### Insert into data staging
 
 #### Insert uoms
 
@@ -233,8 +240,6 @@ INSERT INTO `DTCapacities` (`AutoId`, `PackageTypesJSON`, `PackageTypesSearchFie
 INSERT INTO `DTCapacities` (`AutoId`, `PackageTypesJSON`, `PackageTypesSearchField`, `SpecialEquipmentsJSON`, `SpecialEquipmentsSearchField`, `SpecialLicensesJSON`, `SpecialLicensesSearchField`, `OpportunityZonesJSON`, `OpportunityZonesSearchField`, `HubBranchesJSON`, `HubBranchesDistrictIdSearchField`, `HubBranchesDistrictNameSearchField`, `HubBranchesProvinceNameSearchField`, `HubBranchesProvinceCodeSearchField`, `HubBranchesAddressSearchField`, `HubBranchesUoMSearchField`, `Id`, `SupplierId`, `AnnexId`, `Status`, `StepStatus`, `Step`, `PendingStep`, `CreatedDate`, `LastActivityDate`, `IsWarning`, `Remark`, `ValidFrom`, `ValidTo`, `SubmitBy`, `SubmitByFullName`, `CreatedBy`, `CreatedByFullName`, `LastUpdatedBy`, `LastUpdatedByFullName`, `LastUpdatedDate`, `AnnexLink`, `ModeOfTransportCode`, `ModeOfTransportNameEN`, `ModeOfTransportNameVN`, `Commodity`, `SpecialEquipmentOther`, `OnBehalfCreditLimit`, `OnBehalfCreditLimitCurrencyUnit`, `OnBehalfPaymentTerm`, `OnBehalfPaymentTermTimeUnit`, `IsSubcontract`, `SubcontractPercent`, `TechnologySystem`) VALUES (54, '[{"UoM":"Bag","UoMNameEN":"Bag","UoMNameVN":"Túi"},{"UoM":"Roll","UoMNameEN":"Roll","UoMNameVN":"Cuộn"},{"UoM":"Piece","UoMNameEN":"Piece","UoMNameVN":"Cái"},{"UoM":"Package","UoMNameEN":"Package","UoMNameVN":"Kiện"}]', '[Bag][Roll][Piece][Package]', '["Handlift","fire extinguisher","Labor protection"]', '[Handlift][fire extinguisher][Labor protection]', '[{"File":null,"Name":"30 giấy phép nguy hiểm cho xe 1 Tấn"},{"File":null,"Name":"7 giấy phép vận hành hàng DG nhóm 3"}]', '[30 giấy phép nguy hiểm cho xe 1 Tấn][7 giấy phép vận hành hàng DG nhóm 3]', '[{"NameEN":"Thanh Pho Ho Chi Minh","NameVN":"Thành Phố Hồ Chí Minh","ProvinceCode":"70000 – 74000"},{"NameEN":"Dong Nai","NameVN":"Đồng Nai","ProvinceCode":"76000"},{"NameEN":"Binh Duong","NameVN":"Bình Dương","ProvinceCode":"75000"},{"NameEN":"Tay Ninh","NameVN":"Tây Ninh","ProvinceCode":"80000"},{"NameEN":"Long An","NameVN":"Long An","ProvinceCode":"82000 – 83000"},{"NameEN":"Ha Noi","NameVN":"Hà Nội","ProvinceCode":"10000 – 14000"},{"NameEN":"Da Nang","NameVN":"Đà Nẵng","ProvinceCode":"50000"}]', '[Thanh Pho Ho Chi Minh][Dong Nai][Binh Duong][Tay Ninh][Long An][Ha Noi][Da Nang][Thành Phố Hồ Chí Minh][Đồng Nai][Bình Dương][Tây Ninh][Long An][Hà Nội][Đà Nẵng]', '[{"Address":"50 DT 743A","AreaCode":"TNB","Capcities":[{"UoM":"kg","Capcity":1000,"UoMNameEN":"kilogram","UoMNameVN":"ki-lô-gam","AverageCBM":0,"AverageWeight":0,"MaxTemperature":0,"MinTemperature":0,"MaxCapacityPerDay":0,"MinCapacityPerDay":0,"AverageDimensionHight":0,"AverageDimensionLength":0,"AverageDimensionWeight":0}],"AreaNameEN":"Southwest","AreaNameVN":"Tây Nam Bộ","DistrictId":405,"ProvinceCode":"82000 – 83000","DistrictNameEN":"Duc Hoa","DistrictNameVN":"Đức Hòa","ProvinceNameEN":"Long An","ProvinceNameVN":"Long An"},{"Address":"150 Hòa Bình","AreaCode":"DBSH","Capcities":[{"UoM":"kg","Capcity":1500,"UoMNameEN":"kilogram","UoMNameVN":"ki-lô-gam","AverageCBM":0,"AverageWeight":0,"MaxTemperature":0,"MinTemperature":0,"MaxCapacityPerDay":0,"MinCapacityPerDay":0,"AverageDimensionHight":0,"AverageDimensionLength":0,"AverageDimensionWeight":0}],"AreaNameEN":"Red River Delta","AreaNameVN":"Đồng Bằng Sông Hồng","DistrictId":270,"ProvinceCode":"10000 – 14000","DistrictNameEN":"Long Bien","DistrictNameVN":"Long Biên","ProvinceNameEN":"Ha Noi","ProvinceNameVN":"Hà Nội"}]', '[405][270]', '[Duc Hoa][Long Bien][Đức Hòa][Long Biên]', '[Long An][Ha Noi][Long An][Hà Nội]', '[82000 – 83000][10000 – 14000]', '[50 DT 743A][150 Hòa Bình]', '[kg][kg]', 'VCO000000054DTCAP', 'SUP0107639920', '0', 'Active', NULL, 0, 0, '2023-07-03 04:26:39', '2023-07-03 04:26:39', 0, NULL, '0001-01-01', '0001-01-01', NULL, NULL, 'tuan', '', 'tuan', '', '2023-07-03 04:26:39', NULL, 'DT-AIRTS', 'Air', 'Vận tải Đường Hàng không Nội địa', 'Các loại hàng hóa thông thường, không yêu cầu các tính chất đặc biệt', '', '100000025.000000000000000000000000000000', 'VND', '1.000000000000000000000000000000', 'month', 1, '0.500000000000000000000000000000', 'có phần mềm TMS quản lý đơn hàng, nhưng phầm mềm không real time');
 INSERT INTO `DTCapacities` (`AutoId`, `PackageTypesJSON`, `PackageTypesSearchField`, `SpecialEquipmentsJSON`, `SpecialEquipmentsSearchField`, `SpecialLicensesJSON`, `SpecialLicensesSearchField`, `OpportunityZonesJSON`, `OpportunityZonesSearchField`, `HubBranchesJSON`, `HubBranchesDistrictIdSearchField`, `HubBranchesDistrictNameSearchField`, `HubBranchesProvinceNameSearchField`, `HubBranchesProvinceCodeSearchField`, `HubBranchesAddressSearchField`, `HubBranchesUoMSearchField`, `Id`, `SupplierId`, `AnnexId`, `Status`, `StepStatus`, `Step`, `PendingStep`, `CreatedDate`, `LastActivityDate`, `IsWarning`, `Remark`, `ValidFrom`, `ValidTo`, `SubmitBy`, `SubmitByFullName`, `CreatedBy`, `CreatedByFullName`, `LastUpdatedBy`, `LastUpdatedByFullName`, `LastUpdatedDate`, `AnnexLink`, `ModeOfTransportCode`, `ModeOfTransportNameEN`, `ModeOfTransportNameVN`, `Commodity`, `SpecialEquipmentOther`, `OnBehalfCreditLimit`, `OnBehalfCreditLimitCurrencyUnit`, `OnBehalfPaymentTerm`, `OnBehalfPaymentTermTimeUnit`, `IsSubcontract`, `SubcontractPercent`, `TechnologySystem`) VALUES (55, '[{"UoM":"Bag","UoMNameEN":"Bag","UoMNameVN":"Túi"},{"UoM":"Roll","UoMNameEN":"Roll","UoMNameVN":"Cuộn"},{"UoM":"Piece","UoMNameEN":"Piece","UoMNameVN":"Cái"},{"UoM":"Package","UoMNameEN":"Package","UoMNameVN":"Kiện"}]', '[Bag][Roll][Piece][Package]', '["Handlift","fire extinguisher","Labor protection"]', '[Handlift][fire extinguisher][Labor protection]', '[{"File":null,"Name":"23 giấy phép nguy hiểm cho xe 1 Tấn"},{"File":null,"Name":"7 giấy phép vận hành hàng DG nhóm 3"}]', '[23 giấy phép nguy hiểm cho xe 1 Tấn][7 giấy phép vận hành hàng DG nhóm 3]', '[{"NameEN":"Thanh Pho Ho Chi Minh","NameVN":"Thành Phố Hồ Chí Minh","ProvinceCode":"70000 – 74000"},{"NameEN":"Dong Nai","NameVN":"Đồng Nai","ProvinceCode":"76000"},{"NameEN":"Binh Duong","NameVN":"Bình Dương","ProvinceCode":"75000"},{"NameEN":"Tay Ninh","NameVN":"Tây Ninh","ProvinceCode":"80000"},{"NameEN":"Long An","NameVN":"Long An","ProvinceCode":"82000 – 83000"},{"NameEN":"Ha Noi","NameVN":"Hà Nội","ProvinceCode":"10000 – 14000"},{"NameEN":"Da Nang","NameVN":"Đà Nẵng","ProvinceCode":"50000"}]', '[Thanh Pho Ho Chi Minh][Dong Nai][Binh Duong][Tay Ninh][Long An][Ha Noi][Da Nang][Thành Phố Hồ Chí Minh][Đồng Nai][Bình Dương][Tây Ninh][Long An][Hà Nội][Đà Nẵng]', '[{"Address":"50 DT 743A","AreaCode":"TNB","Capcities":[{"UoM":"container","Capcity":1000,"UoMNameEN":"Container","UoMNameVN":"Container","AverageCBM":0,"AverageWeight":0,"MaxTemperature":0,"MinTemperature":0,"MaxCapacityPerDay":0,"MinCapacityPerDay":0,"AverageDimensionHight":0,"AverageDimensionLength":0,"AverageDimensionWeight":0}],"AreaNameEN":"Southwest","AreaNameVN":"Tây Nam Bộ","DistrictId":405,"ProvinceCode":"82000 – 83000","DistrictNameEN":"Duc Hoa","DistrictNameVN":"Đức Hòa","ProvinceNameEN":"Long An","ProvinceNameVN":"Long An"},{"Address":"150 Hòa Bình","AreaCode":"DBSH","Capcities":[{"UoM":"container","Capcity":80,"UoMNameEN":"Container","UoMNameVN":"Container","AverageCBM":0,"AverageWeight":0,"MaxTemperature":0,"MinTemperature":0,"MaxCapacityPerDay":0,"MinCapacityPerDay":0,"AverageDimensionHight":0,"AverageDimensionLength":0,"AverageDimensionWeight":0}],"AreaNameEN":"Red River Delta","AreaNameVN":"Đồng Bằng Sông Hồng","DistrictId":270,"ProvinceCode":"10000 – 14000","DistrictNameEN":"Long Bien","DistrictNameVN":"Long Biên","ProvinceNameEN":"Ha Noi","ProvinceNameVN":"Hà Nội"}]', '[405][270]', '[Duc Hoa][Long Bien][Đức Hòa][Long Biên]', '[Long An][Ha Noi][Long An][Hà Nội]', '[82000 – 83000][10000 – 14000]', '[50 DT 743A][150 Hòa Bình]', '[container][container]', 'VCO000000055DTCAP', 'SUP0107639920', '0', 'Active', NULL, 0, 0, '2023-07-03 04:26:39', '2023-07-03 04:26:39', 0, NULL, '0001-01-01', '0001-01-01', NULL, NULL, 'tuan', '', 'tuan', '', '2023-07-03 04:26:39', NULL, 'DT-RAFCL', 'Rail FCL', 'Vận tải Đường sắt Nội địa hàng nguyên container', 'tất cả các loại hàng hóa', '', '100000018.000000000000000000000000000000', 'VND', '1.000000000000000000000000000000', 'month', 1, '0.500000000000000000000000000000', 'có phần mềm TMS quản lý đơn hàng, nhưng phầm mềm không real time');
 ```
-
-### Procedure
 
 #### Insert rows to Tariff List
 
