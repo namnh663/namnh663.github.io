@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Experience
-nav_order: 5
+nav_order: 2
 ---
 
 ## In Do Trans Logistics Corporation
@@ -14,6 +14,12 @@ nav_order: 5
 
 ## Home Credit
 
+![](https://upload.wikimedia.org/wikipedia/commons/a/a8/Logo_Home_Credit.png)
+
 ## Orient Commercial Joint Stock Bank
 
+![](https://cdn.haitrieu.com/wp-content/uploads/2022/02/Logo-OCB-Na.png)
+
 ## HDBank
+
+[](https://inkythuatso.com/uploads/images/2021/12/logo-hdbank-inkythuatso-06-18-08-16.jpg)

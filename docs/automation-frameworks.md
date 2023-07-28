@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Automation Frameworks
-nav_order: 2
+nav_order: 5
 ---
 
 ## Familiar With Automation Testing Frameworks

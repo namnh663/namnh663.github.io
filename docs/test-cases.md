@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Test Cases
-nav_order: 6
+nav_order: 3
 ---
 
 {: .important-title }
