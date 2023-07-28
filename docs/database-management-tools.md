@@ -19,19 +19,11 @@ nav_order: 4
 103.191.146.31
 -- Port
 23307
+-- User
+dev1_qc /  dev2_qc / devIntegrate_qc
+-- Password
+TSC4qP1tmbXRok6UmaqN /  EAqlm6fiDvCUBV23YX0M /  XSQsuNb0H7ulnuwiPFiZ
 ```
-
-| User | dev1_qc |
-| Password | TSC4qP1tmbXRok6UmaqN |
-| Display name | Dev 1 |
-
-| User | dev2_qc |
-| Password | EAqlm6fiDvCUBV23YX0M |
-| Display name | Dev 2 |
-
-| User | devIntegrate_qc |
-| Password | XSQsuNb0H7ulnuwiPFiZ |
-| Display name | Dev Integrate |
 
 **Query**:
 
