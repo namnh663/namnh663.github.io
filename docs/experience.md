@@ -22,4 +22,4 @@ nav_order: 2
 
 ## HDBank
 
-[](https://inkythuatso.com/uploads/images/2021/12/logo-hdbank-inkythuatso-06-18-08-16.jpg)
+![](https://inkythuatso.com/uploads/images/2021/12/logo-hdbank-inkythuatso-06-18-08-16.jpg)
