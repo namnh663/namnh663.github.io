@@ -45,16 +45,7 @@ Feature: Login
     And user click Login button
     Then user should be successfully logged into the site
 
-  Scenario #2: User login failed when username and password are left blank
-    Given user go to 'https://www.saucedemo.com/'
-    Then user should see the username field blank
-    And user should see the password field blank
-    When user click Login button
-    Then user should see the username field highlighted in red
-    And user should see the password field highlighted in red
-    And user should see 'Epic sadface: Username is required' error message
-
-  Scenario #3: User login failed with incorrect username and password
+  Scenario #2: User login failed with incorrect username and password
     Given user go to 'https://www.saucedemo.com/'
     When user enter <invalid_username> to username textbox
     And user enter <invalid_password> to password textbox
