@@ -15,20 +15,11 @@ nav_order: 3
 >
 > Password for all users: secret_sauce
 
-Check List:
-1. Display all the elements of the login page and the UI must be the same as the design
-2. Default username and password are empty
-3. Default username field's placeholder is Username
-4. Default password field's placeholder is Password
-5. Username and password are blank on page reload
-6. User successfully logged in with correct username and password
-7. User login failed with incorrect username and password
-8. User login failed with correct name but incorrect password
-9. User login failed with incorrect name but correct password
-10. User login failed when username and password are left blank
-11. User login failed when entering username but leaving password blank
-12. User login failed when name is left blank but password is entered
-13. Error message appears above login button and does not close automatically
+## Template Test Case
+
+Google Sheet: https://docs.google.com/spreadsheets/d/1HE1bMMztXkqoShD0vNOh_FE6va96WYkIiDsquOLHhCY/edit?usp=sharing 
+
+![](https://raw.githubusercontent.com/namnh663/namnh663.github.io/main/assets/images/google-sheet-test-case.png)
 
 ## BDD Test Case
 
