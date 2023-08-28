@@ -17,7 +17,7 @@ nav_order: 3
 
 ## Template Test Case
 
-Google Sheet: https://docs.google.com/spreadsheets/d/1HE1bMMztXkqoShD0vNOh_FE6va96WYkIiDsquOLHhCY/edit?usp=sharing 
+[View Test Case](https://docs.google.com/spreadsheets/d/1HE1bMMztXkqoShD0vNOh_FE6va96WYkIiDsquOLHhCY/edit?usp=sharing){: .btn .btn-outline }
 
 ![](https://raw.githubusercontent.com/namnh663/namnh663.github.io/main/assets/images/google-sheet-test-case.png)
 
