@@ -17,7 +17,7 @@ nav_order: 3
 
 [View Test Case](https://docs.google.com/spreadsheets/d/1HE1bMMztXkqoShD0vNOh_FE6va96WYkIiDsquOLHhCY/edit?usp=sharing){: .btn .btn-outline }
 
-![](https://raw.githubusercontent.com/namnh663/namnh663.github.io/main/assets/images/google-sheet-test-case.png)
+![](/assets/images/google-sheet-test-case.png)
 
 ## BDD Test Case
 
@@ -57,4 +57,4 @@ User successfully logged in with correct username and password
 
 Steps to reproduce:
 
-![](https://raw.githubusercontent.com/namnh663/namnh663.github.io/main/assets/images/qase-test-case.png)
+![](/assets/images/qase-test-case.png)
