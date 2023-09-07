@@ -4,6 +4,9 @@ theme: just-the-docs
 
 url: https://namnh663.github.io
 
+favicon_ico: "/assets/images/favicon.ico"
+color_scheme: dark
+
 search_enabled: false
 
 callouts_level: quiet # or loud
