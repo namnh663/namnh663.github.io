@@ -10,10 +10,15 @@ permalink: /
 [robot_code]: https://github.com/namnh663/swaglabs-robot
 [nightwatch_mobile_code]: https://github.com/namnh663/mobile-nightwatch
 [nightwatch_web_code]: https://github.com/namnh663/swaglabs-nightwatch
+[testcafe_code]: https://github.com/namnh663/vela-testcafe
+[karate_code]: https://github.com/namnh663/ama-karate
+
 [webdriverio_post]: https://www.linkedin.com/posts/namnh663_webdriverio-webtesting-automationtesting-activity-7104185968659759104-zRnJ?utm_source=share&utm_medium=member_desktop
 [robot_post]: https://www.linkedin.com/posts/namnh663_testing-robotframework-automation-activity-7088958406123814912-VKdG?utm_source=share&utm_medium=member_desktop
 [nightwatch_mobile_post]: https://www.linkedin.com/posts/namnh663_testing-nightwatchjs-automationtesting-activity-7099827651774738432-ZU4s?utm_source=share&utm_medium=member_desktop
 [nightwatch_web_post]: https://www.linkedin.com/posts/namnh663_testing-nightwatchjs-automationtesting-activity-7095118586179960833-aV9G?utm_source=share&utm_medium=member_desktop
+[testcafe_post]: https://www.linkedin.com/posts/namnh663_testing-testcafe-automation-activity-7005242655332855808-VDc9?utm_source=share&utm_medium=member_desktop
+[karate_post]: https://www.linkedin.com/posts/namnh663_testing-automation-framework-activity-6991862237917327360-aMfZ?utm_source=share&utm_medium=member_desktop
 
 [LinkedIn](https://www.linkedin.com/in/namnh663){: .btn .btn-blue }
 [GitHub](https://github.com/namnh663){: .btn .btn-blue }
@@ -21,9 +26,6 @@ permalink: /
 ## About Me
 
 namnh663@gmail.com
-{: .label .label-blue }
-
-(+84) 86 909 1664
 {: .label .label-blue }
 
 Ho Chi Minh, Vietnam
@@ -71,6 +73,8 @@ Ho Chi Minh, Vietnam
 | Project Name         | Framework                                                         | Link                      |
 |:---------------------|:------------------------------------------------------------------|:--------------------------|
 | swaglabs-webdriverio | <img src="/assets/images/webdriverio.png" width="40" height="45"> | [<> Code][webdriverio_code]{: .btn .btn-outline } [View post][webdriverio_post]{: .btn .btn-outline }|
-| mobile-nightwatch    | <img src="/assets/images/nightwatch.png" width="40" height="45">       | [<> Code][nightwatch_mobile_code]{: .btn .btn-outline } [View post][nightwatch_mobile_post]{: .btn .btn-outline }|
-| swaglabs-nightwatch  | <img src="/assets/images/nightwatch.png" width="40" height="45">       | [<> Code][nightwatch_web_code]{: .btn .btn-outline } [View post][nightwatch_web_post]{: .btn .btn-outline }|
+| mobile-nightwatch    | <img src="/assets/images/nightwatch.png" width="40" height="45">  | [<> Code][nightwatch_mobile_code]{: .btn .btn-outline } [View post][nightwatch_mobile_post]{: .btn .btn-outline }|
+| swaglabs-nightwatch  | <img src="/assets/images/nightwatch.png" width="40" height="45">  | [<> Code][nightwatch_web_code]{: .btn .btn-outline } [View post][nightwatch_web_post]{: .btn .btn-outline }|
 | swaglabs-robot       | <img src="/assets/images/robot.png" width="40" height="45">       | [<> Code][robot_code]{: .btn .btn-outline } [View post][robot_post]{: .btn .btn-outline }|
+| vela-testcafe        | <img src="/assets/images/testcafe.png" width="42" height="30">    | [<> Code][testcafe_code]{: .btn .btn-outline } [View post][testcafe_post]{: .btn .btn-outline }|
+| ama-karate           | <img src="/assets/images/karate.png" width="42" height="42">    | [<> Code][karate_code]{: .btn .btn-outline } [View post][karate_post]{: .btn .btn-outline }|
