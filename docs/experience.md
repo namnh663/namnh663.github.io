@@ -8,6 +8,10 @@ nav_order: 2
 
 [https://itlvn.com](https://itlvn.com) · [https://beta.vela.com.vn](https://beta.vela.com.vn)
 
+**Team structuress**:
+
+![](/assets/images/vela-org.png)
+
 - Led and mentored a 5-member test engineer team, ensuring successful project completion.
 - Implemented TestCafe automation testing framework, resulting in a 30% reduction in manual testing efforts and improving test coverage by 25%.
 - Developed comprehensive test plans for complex software systems, covering all requirements.
