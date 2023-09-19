@@ -12,13 +12,12 @@ nav_order: 2
 
 ![](/assets/images/vela-org.png)
 
-- Led and mentored a 5-member test engineer team, ensuring successful project completion.
-- Implemented TestCafe automation testing framework, resulting in a 30% reduction in manual testing efforts and improving test coverage by 25%.
-- Developed comprehensive test plans for complex software systems, covering all requirements.
-- Analyzed software specifications, identifying issues and suggesting improvements.
-- Contributed valuable insights in product design meetings to enhance user experience.
-- Generated detailed test reports, documenting results effectively.
-- Collaborated with product owners to prioritize and refine the backlog.
+- Manage and support testing activities for a 6-member team, providing testing strategies that meet business and technical requirements.
+- Implement processes, quality acceptance criteria, and successfully apply the TestCafe testing framework for regression testing and end-to-end testing to help reduce defect rates and increase test coverage.
+- Implement continuous integration for the testing framework with GitLab and keep automated scripts updated and maintained.
+- Assign work according to each member's capacity and regularly organize catch-up meetings to closely monitor work progress, providing professional guidance to increase the quality of the team's work, ensuring compliance with defined regulatory processes and quality standards.
+- Carefully analyze business requirements and proactively collaborate closely with cross-functional teams to identify and mitigate operational risks early.
+- Set up and deploy automated Jira workflows for the entire project, create dashboards to closely monitor all Jira activities, and generate graphical reports to provide to project management.
 
 **Skills**: TestCafe · Gitlab · JavaScript · Swagger API · Chrome DevTools · Jira · Microsoft Visual Studio Code · Technical expertise · Project Management · Collaboration · Analytical · Problem Solving · Reporting · Documentation · Agile Development Collaboration · Test Automation · Test Planning · Leadership
 
