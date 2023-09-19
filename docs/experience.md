@@ -8,12 +8,12 @@ nav_order: 2
 
 [https://itlvn.com](https://itlvn.com) · [https://beta.vela.com.vn](https://beta.vela.com.vn)
 
-**Team structuress**:
+**Team structure**:
 
 ![](/assets/images/vela-org.png)
 
 - Manage and support testing activities for a 6-member team, providing testing strategies that meet business and technical requirements.
-- Implement processes, quality acceptance criteria, and successfully apply the TestCafe testing framework for regression testing and end-to-end testing to help reduce defect rates and increase test coverage.
+- Implement processes, quality acceptance criteria, and successfully apply the TestCafe framework for regression testing and end-to-end testing to help reduce defect rates and increase test coverage.
 - Implement continuous integration for the testing framework with GitLab and keep automated scripts updated and maintained.
 - Assign work according to each member's capacity and regularly organize catch-up meetings to closely monitor work progress, providing professional guidance to increase the quality of the team's work, ensuring compliance with defined regulatory processes and quality standards.
 - Carefully analyze business requirements and proactively collaborate closely with cross-functional teams to identify and mitigate operational risks early.
