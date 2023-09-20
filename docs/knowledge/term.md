@@ -21,6 +21,8 @@ nav_order: 1
 
 # H
 
+**Hypertext Transfer Protocol (HTTP)**: A request-response protocol, where clients (typically web browsers) send requests to web servers to retrieve or manipulate web resources, and servers respond with the requested data or status information.
+
 # I
 
 # J

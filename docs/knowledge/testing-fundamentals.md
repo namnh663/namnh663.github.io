@@ -5,6 +5,8 @@ parent: Knowledge
 nav_order: 2
 ---
 
+# Testing Fundamentals
+
 ## Software Testing Principles
 
 Software testing is guided by several fundamental principles that help ensure effective and thorough testing of software applications. These principles provide a framework for testers to plan, execute, and evaluate testing activities systematically. Here are some key software testing principles:

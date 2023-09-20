@@ -42,7 +42,7 @@ Ho Chi Minh, Vietnam
 - Love to share and learn new technologies and trends in the software testing industry
 
 {: .highlight }
-**Fun facts**: I'm passionate about gaining knowledge through evening podcasts on innovation, technology, finance, and investment. In my free time, I stay updated with emerging technologies to enhance my skill. I also enjoy reviewing coffee shops and delicious restaurants, sharing these experiences with friends and loved ones. <br><br> **Favorite podcasts**: VIETSUCCESS · Vietcetera · Hieu Nguyen
+**What do you do in your free time?** <br> *Listen to podcasts* · *Learning* · *Go enjoy delicious food and drink* <br> **Favorite podcasts**: <br> *Vietsuccess* · *Vietcetera* · *Hieu Nguyen*
 
 ## Skills
 
