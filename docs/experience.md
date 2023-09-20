@@ -12,12 +12,12 @@ nav_order: 2
 
 ![](/assets/images/vela-org.png)
 
-- Manage and support testing activities for a 6-member team, providing testing strategies that meet business and technical requirements.
-- Implement processes, quality acceptance criteria, and successfully apply the TestCafe framework for regression testing and end-to-end testing to help reduce defect rates and increase test coverage.
-- Implement continuous integration for the testing framework with GitLab and keep automated scripts updated and maintained.
-- Assign work according to each member's capacity and regularly organize catch-up meetings to closely monitor work progress, providing professional guidance to increase the quality of the team's work, ensuring compliance with defined regulatory processes and quality standards.
-- Carefully analyze business requirements and proactively collaborate closely with cross-functional teams to identify and mitigate operational risks early.
-- Set up and deploy automated Jira workflows for the entire project, create dashboards to closely monitor all Jira activities, and generate graphical reports to provide to project management.
+- Managed and supported testing activities for a 6-member team, providing testing strategies that met business and technical requirements.
+- Implemented processes, quality acceptance criteria, and successfully applied the TestCafe framework for regression testing and end-to-end testing to help reduce defect rates and increase test coverage.
+- Implemented continuous integration for the testing framework with GitLab and kept automated scripts updated and maintained.
+- Assigned work according to each member's capacity and regularly organized catch-up meetings to closely monitor work progress, providing professional guidance to increase the quality of the team's work, ensuring compliance with defined regulatory processes and quality standards.
+- Carefully analyzed business requirements and proactively collaborated closely with cross-functional teams to identify and mitigate operational risks early.
+- Configured Jira workflows for the entire project, created dashboards to closely monitor all Jira activities, and generated graphical reports to provide to project management.
 
 **Skills**: TestCafe · Gitlab · JavaScript · Swagger API · Chrome DevTools · Jira · Microsoft Visual Studio Code · Technical expertise · Project Management · Collaboration · Analytical · Problem Solving · Reporting · Documentation · Agile Development Collaboration · Test Automation · Test Planning · Leadership
 
@@ -42,13 +42,16 @@ nav_order: 2
 
 *Nominated for DNA Star Award*
 
-- Conducted extensive testing on mobile applications across iOS and Android platforms, identifying and resolving software defects.
-- Successfully conducted regression testing, ensuring stability and reliability after implementing new features or updates, with zero major issues reported by users.
-- Mentored new team members during onboarding, leading to their successful integration into the team.
-- Streamlined onboarding processes, reducing the time required for newcomers to become productive.
-- Active participation in Agile development methodologies, contributing to the timely delivery of high-quality software.
-- Improved testing processes and methodologies, resulting in a 25% increase in efficiency and effectiveness across the team.
-- Presented demos to stakeholders, receiving positive feedback and recognition.
+- Developed a comprehensive testing plan for top-up, bill payment, and chatbot features in VN, PH, and IN, with clear testing scopes and goals to help reduce bugs at release.
+- Created and maintained automated test cases and scripts whenever there were changes or new requirements.
+- Conducted thorough testing of mobile applications on Android and iOS platforms and automated all API services developed by the team to increase test coverage.
+- Found many bugs during testing and collaborated effectively with development teams, achieving a bug resolution rate of more than 90% within the stipulated time.
+- Conducted regression testing, ensuring stability after each sprint with new features or updates, and received no major issues reported by users.
+- Built and provided real-time dashboards for team testing quality, reducing manual reporting efforts.
+- Implemented knowledge-sharing sessions and provided advice on testing and using applications, improving overall productivity.
+- Actively participated in Scrum activities, providing timely feedback, improving processes and testing methods, and increasing teamwork efficiency and the quality of applications.
+- Contributed to writing and improving onboarding processes, reducing the time needed for new hires to become productive.
+- Was responsible for presenting application to stakeholders and consistently received positive feedback.
 
 **Skills**: Integration Testing · Android · iOS · C# · JMeter · Microsoft Azure · HTTP Inspector · Postman API · Microsoft Visual Studio Code · Regression Testing · Process Improvement · Presentation · Communication · Mobile Testing · API Testing
 
