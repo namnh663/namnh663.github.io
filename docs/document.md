@@ -65,10 +65,10 @@ nav_order: 3
    | # | Role          | Member |
    |:--|:--------------|:-------|
    | 1 | QA Lead       | Nam    |
-   | 1 | Senior Tester | Trang  |
-   | 1 | Junior Tester | Tri    |
-   | 1 | Intern        | Phu    |
-   | 1 | Intern        | Han    |
+   | 2 | Senior Tester | Trang  |
+   | 3 | Junior Tester | Tri    |
+   | 4 | Intern        | Phu    |
+   | 5 | Intern        | Han    |
 
 **Test Schedule:**
 
