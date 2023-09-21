@@ -65,10 +65,10 @@ nav_order: 3
    | # | Role          | Member |
    |:--|:--------------|:-------|
    | 1 | QA Lead       | Nam    |
-   | 2 | Senior Tester | Trang  |
-   | 3 | Junior Tester | Tri    |
-   | 4 | Intern        | Phu    |
-   | 5 | Intern        | Han    |
+   | 1 | Senior Tester | Trang  |
+   | 1 | Junior Tester | Tri    |
+   | 1 | Intern        | Phu    |
+   | 1 | Intern        | Han    |
 
 **Test Schedule:**
 
@@ -114,7 +114,7 @@ nav_order: 3
    - Mitigation Plan: Prepare a backup set of test data in case the primary test data becomes unavailable or corrupted.
 
 **10. Deliverables:**
-   - Specify the test documentation to be delivered, such as test reports, defect reports, and test data.
+    - Specify the test documentation to be delivered, such as test reports, defect reports, and test data.
 
 **11. Exit Criteria:**
 
@@ -139,16 +139,18 @@ nav_order: 3
    - **Example:** The project manager and product owner have reviewed the test reports, participated in user acceptance testing, and have provided their formal approval for the website to move to production.
 
 **12. Resources:**
-   - List the resources needed for testing, including personnel, tools, and hardware.
+    - List the resources needed for testing, including personnel, tools, and hardware.
 
 **13. Approval:**
-   - Identify the stakeholders responsible for approving the test plan.
+    - Identify the stakeholders responsible for approving the test plan.
 
 **14. Review and Update:**
-   - Specify when and how the test plan will be reviewed and updated throughout the testing process.
+    - Specify when and how the test plan will be reviewed and updated throughout the testing process.
 
 **15. Conclusion:**
-   - Summarize the test plan and its key objectives.
+    - Summarize the test plan and its key objectives.
+
+Once this test plan is in place, you can proceed with test execution, monitoring, and reporting to ensure that www.saucedemo.com meets the desired quality standards.
 
 ## Test Case
 
@@ -199,7 +201,7 @@ Steps to reproduce:
 ![](/assets/images/qase-test-case.png)
 
 
-## Bug Report
+## Jira Bug Report
 
 | Fields         | Value                                                                                  |
 |:---------------|:---------------------------------------------------------------------------------------|
