@@ -5,7 +5,16 @@ parent: Knowledge
 nav_order: 2
 ---
 
-# Testing Fundamentals
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Software Testing Principles
 
@@ -42,3 +51,31 @@ Software testing is guided by several fundamental principles that help ensure ef
 15. **Clear Test Objectives**: Define clear and measurable objectives for testing, including what is to be achieved and how it will be measured.
 
 These principles guide testing practices and help testers make informed decisions about where to allocate resources, what to prioritize, and how to approach testing in a way that maximizes defect detection and minimizes risk. Applying these principles in a systematic manner contributes to the overall quality and reliability of the software being tested.
+
+## The Goal Of Software Testing
+
+The primary goal of software testing is to ensure the quality and reliability of a software application or system by identifying and mitigating defects, errors, and issues. Software testing is an essential phase of the software development lifecycle, and its objectives include:
+
+1. **Bug Detection:** The primary aim of software testing is to detect and locate defects (bugs) in the software. These defects can be coding errors, logical flaws, or deviations from requirements. Identifying bugs early in the development process helps prevent costly and critical issues in production.
+
+2. **Quality Assurance:** Testing is a key component of quality assurance. By thoroughly testing a software product, teams can ensure that it meets the specified requirements, adheres to design standards, and functions correctly.
+
+3. **Risk Mitigation:** Testing helps mitigate the risks associated with software development. By identifying and addressing defects and issues during testing, teams reduce the likelihood of software failures, security vulnerabilities, and negative user experiences in production.
+
+4. **Verification and Validation:** Testing verifies that the software meets its intended requirements (verification) and validates that it fulfills user needs and expectations (validation). It ensures that the software does what it is supposed to do.
+
+5. **Improvement and Optimization:** Testing provides valuable feedback to developers and stakeholders. It helps identify areas for improvement, optimization, and performance enhancement, ultimately leading to a better software product.
+
+6. **User Satisfaction:** High-quality software leads to greater user satisfaction. Thorough testing helps ensure that the software is reliable, performs well, and meets user needs, which enhances user experience and trust.
+
+7. **Cost Reduction:** Identifying and fixing defects early in the development process is more cost-effective than addressing them in later stages or in production. Testing helps reduce the overall cost of software development and maintenance.
+
+8. **Predictability:** Testing provides a level of predictability and confidence in software behavior. Stakeholders can have greater assurance that the software will perform as expected when deployed.
+
+9. **Continuous Improvement:** The testing process is iterative and continuous. It allows teams to refine their testing strategies, tools, and processes over time, leading to improved software quality.
+
+10. **Documentation:** Testing generates documentation, including test cases, test plans, and test reports, which serve as valuable artifacts for understanding and maintaining the software.
+
+11. **Security:** Security testing identifies vulnerabilities and weaknesses in software that could be exploited by malicious actors. It helps protect sensitive data and user privacy.
+
+In summary, the goal of software testing is to ensure that software meets its intended purpose, functions correctly, is reliable, secure, and delivers a positive user experience. Effective testing contributes to the overall success of software development projects by reducing risks, enhancing quality, and providing confidence in the software's performance.
