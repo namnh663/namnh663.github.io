@@ -1,11 +1,35 @@
 ---
 layout: default
-title: Term
+title: Glossary
 parent: Knowledge
 nav_order: 1
 ---
 
 # A
+
+**A/B testing**: The process of testing two variations of the same web page to determine which page is more successful at attracting user traffic and generating revenue
+
+**Absolute reference**: A reference within a function that is locked so that rows and columns won’t change if the function is copied
+
+**Access control**: Features such as password protection, user permissions, and encryption that are used to protect a spreadsheet
+
+**Accuracy**: The degree to which data conforms to the actual entity being measured or described
+
+**Administrative metadata**: Metadata that indicates the technical source of a digital asset
+
+Aesthetic (R): A visual property of an object in a plot
+
+**Agenda**: A list of scheduled appointments
+
+**Aggregation**: The process of collecting or gathering many separate pieces into a whole
+
+**Algorithm**: A process or set of rules followed for a specific task
+
+**Aliasing**: Temporarily naming a table or column in a query to make it easier to read and write
+
+**Alternative text**: Text that provides an alternative to non-text content, such as images and videos
+
+**Annotation**: Text that briefly explains data or helps focus the audience on a particular aspect of the data in a visualization
 
 # B
 
