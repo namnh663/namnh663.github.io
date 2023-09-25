@@ -17,7 +17,7 @@ nav_order: 1
 
 **Administrative metadata**: Metadata that indicates the technical source of a digital asset
 
-Aesthetic (R): A visual property of an object in a plot
+**Aesthetic (R)**: A visual property of an object in a plot
 
 **Agenda**: A list of scheduled appointments
 
@@ -30,6 +30,20 @@ Aesthetic (R): A visual property of an object in a plot
 **Alternative text**: Text that provides an alternative to non-text content, such as images and videos
 
 **Annotation**: Text that briefly explains data or helps focus the audience on a particular aspect of the data in a visualization
+
+**Anscombe’s quartet**: Four datasets that have nearly identical summary statistics but contain different plotted values
+
+**Area chart**: A data visualization that uses individual data points for a changing variable connected by a continuous line with a filled in area underneath
+
+**Argument (R)**: Information needed by a function in R in order to run
+
+**Arithmetic operator**: An operator used to perform basic math operations such as addition, subtraction, multiplication, and division
+
+**Array**: A collection of values in spreadsheet cells
+
+**Assignment operator**: An operator used to assign values to variables and vectors
+
+**Attribute**: A characteristic or quality of data used to label a column in a table
 
 # B
 
