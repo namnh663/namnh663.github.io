@@ -59,12 +59,16 @@ nav_order: 2
 
 [https://ocb.com.vn](https://ocb.com.vn)
 
-- Successfully established a robust testing process that improved overall software quality and reduced post-production defects by 30%.
-- Collaborated with cross-functional teams, including developers, project managers, and business analysts, to develop comprehensive test plans.
-- Implemented rigorous test methodologies, incorporating both black box and white box techniques, leading to enhanced test coverage and increased customer satisfaction.
-- Identified and reported critical defects during testing, ensuring their timely resolution and preventing potential issues in production.
+- Collaborated with cross-functional teams to review and analyze project requirements, ensuring a deep understanding of test objectives and testability.
+- Developed comprehensive test plans and test strategies, aligning them with project objectives.
+- Designed test cases, ensuring comprehensive test coverage and effective testing activities.
+- Executed manual test cases, performance tests, and reported defects promptly, including defining severity and priority for each defect.
+- Prepared detailed reports related to software testing, documenting test results, defects, and overall testing progress.
+- Ensured adherence to defined standards and procedures for all testing-related work, maintaining a high level of quality control.
+- Transferred knowledge to team members, provided constructive feedback to enhance team productivity and project outcomes.
+- Contributed to the continuous improvement of team working processes, streamlining testing procedures and increasing efficiency.
 
-**Skills**: IBM BPM · Web Testing · Analytical Thinking · Test Methodologies · Quality Assurance · Adaptability · Reporting
+**Skills**: IBM BPM · Web Testing · Test Design · Analytical Thinking · Test Methodologies · Quality Assurance · Adaptability · Process Improvement · Reporting · Test Planning
 
 ## HDBank
 
