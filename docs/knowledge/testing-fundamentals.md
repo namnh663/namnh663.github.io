@@ -16,6 +16,44 @@ nav_order: 2
 {:toc}
 </details>
 
+## Software Development Life Cycle (SDLC)
+
+SDLC is a systematic process used by software developers to design, create, test, and maintain software applications. It encompasses various phases and activities to ensure the development of a high-quality software product. The specific phases and their details can vary depending on the SDLC model used, but the following is a typical representation of the SDLC phases:
+
+1. **Planning:**
+   - **Objective:** In the planning phase, project stakeholders define the software's purpose, scope, requirements, and objectives. The project plan, schedule, and budget are established.
+   - **Key Activities:** Requirements gathering, feasibility analysis, project scope definition, risk assessment, and resource planning.
+
+2. **Analysis:**
+   - **Objective:** During the analysis phase, detailed requirements are gathered, and the functional and non-functional requirements of the software are documented. This phase helps in understanding the problem to be solved.
+   - **Key Activities:** Requirement elicitation, documentation, analysis, and validation.
+
+3. **Design:**
+   - **Objective:** The design phase focuses on creating a blueprint for the software. It includes defining the architecture, data structures, interfaces, and components needed for implementation.
+   - **Key Activities:** High-level design, low-level design, database schema design, and user interface design.
+
+4. **Implementation (Coding):**
+   - **Objective:** In the implementation phase, developers write the actual code for the software. This is where the design is translated into executable code.
+   - **Key Activities:** Writing, testing, and debugging code, as well as ensuring adherence to coding standards.
+
+5. **Testing:**
+   - **Objective:** Testing ensures that the software meets its requirements and functions correctly. It includes finding and fixing defects, verifying functionality, and validating against the design.
+   - **Key Activities:** Functional testing, integration testing, system testing, acceptance testing, and regression testing.
+
+6. **Deployment:**
+   - **Objective:** The deployment phase involves releasing the software to the target environment, making it available to end-users. This may include installation, configuration, and data migration.
+   - **Key Activities:** Release planning, installation, configuration, and user training.
+
+7. **Maintenance:**
+   - **Objective:** After deployment, the software enters the maintenance phase, where it is regularly updated, improved, and supported. This phase can continue for the life of the software.
+   - **Key Activities:** Bug fixing, performance optimization, feature enhancements, and ongoing support.
+
+8. **Evaluation and Feedback:**
+   - **Objective:** Throughout the SDLC, evaluation and feedback loops occur, allowing stakeholders to provide input, review progress, and make necessary adjustments.
+   - **Key Activities:** Collecting feedback from users and stakeholders, evaluating the software's effectiveness, and adapting the development process as needed.
+
+The choice of SDLC model and the specific phases can vary based on the project's size, complexity, and requirements. Modern software development often involves a mix of methodologies and practices to meet evolving demands efficiently and deliver high-quality software products.
+
 ## Software Testing Principles
 
 Software testing is guided by several fundamental principles that help ensure effective and thorough testing of software applications. These principles provide a framework for testers to plan, execute, and evaluate testing activities systematically. Here are some key software testing principles:
