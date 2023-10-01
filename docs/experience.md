@@ -74,8 +74,8 @@ nav_order: 2
 
 [https://hdbank.com.vn](https://hdbank.com.vn)
 
-- Conducting manual testing of software applications and systems to identify and report any defects or issues.
-- Developing and executing test plans, test cases, and test scripts based on project requirements.
-- Suggested a set of usability improvements for a mobile app that were implemented and resulted in a 15% decrease in the number of user errors.
+- Implemented rigorous manual testing methodologies, consistently identifying defects and ensuring the adherence to quality standards.
+- Successfully created and executed comprehensive test cases on both website and mobile application, aligning with project requirements and specifications.
+- Conducted training sessions to ensure internal staff can use internal products developed by the technology department.
 
 **Skills**: Android · iOS · Usability analysis · Test Design · Communication · Mobile Testing · Manual Testing

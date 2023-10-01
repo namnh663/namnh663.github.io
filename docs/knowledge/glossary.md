@@ -87,9 +87,11 @@ nav_order: 1
 
 # S
 
-**Software Development Life Cycle (SDLC)**: A systematic and structured process for planning, creating, testing, deploying, and maintaining software applications or systems. It provides a framework that guides software development teams and stakeholders through the various phases and activities involved in building software. The primary goal of SDLC is to ensure that software projects are completed on time, within budget, and with high quality.
+**Software Development Life Cycle (SDLC)**: A systematic and structured process for planning, creating, testing, deploying, and maintaining software applications or systems.
 
 **Software testing**: A critical phase in the SDLC aimed at identifying defects, ensuring that the software meets its requirements, and delivering a reliable and high-quality product to users.
+
+**System testing** A type of software testing that focuses on evaluating the entire software system as a whole.
 
 # T
 
