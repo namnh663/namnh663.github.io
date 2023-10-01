@@ -71,7 +71,7 @@ nav_order: 1
 
 # M
 
-**Manual testing**: A software testing technique where testers execute test cases and scenarios without the use of automated testing tools or scripts. In manual testing, a human tester interacts with the software or application just like an end user would, using the application's features, functions, and interfaces to identify and report defects, inconsistencies, and other issues.
+**Manual testing**: A software testing technique where testers execute test cases and scenarios without the use of automated testing tools or scripts.
 
 # N
 
@@ -79,7 +79,7 @@ nav_order: 1
 
 # P
 
-**Performance testing**: A type of software testing that focuses on evaluating the performance, speed, responsiveness, scalability, and stability of a software application under various conditions. The primary goal of performance testing is to ensure that the application performs well and meets the performance requirements and expectations of users.
+**Performance testing**: A type of software testing that focuses on evaluating the performance, speed, responsiveness, scalability, and stability of a software application under various conditions.
 
 # Q
 
