@@ -57,7 +57,7 @@ nav_order: 1
 
 **Big data**: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems
 
-** Boolean data**: A data type with only two possible values, usually true or false
+**Boolean data**: A data type with only two possible values, usually true or false
 
 **Borders**: Lines that can be added around two or more cells on a spreadsheet
 
