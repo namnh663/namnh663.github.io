@@ -47,6 +47,30 @@ nav_order: 1
 
 # B
 
+**Bad data source**: A data source that is not reliable, original, comprehensive, current, and cited (ROCCC)
+
+**Balance**: The design principle of creating aesthetic appeal and clarity in a data visualization by evenly distributing visual elements
+
+**Bar graph**: A data visualization that uses size to contrast and compare two or more values
+
+**Bias**: A conscious or subconscious preference in favor of or against a person, group of people, or thing
+
+**Big data**: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems
+
+** Boolean data**: A data type with only two possible values, usually true or false
+
+**Borders**: Lines that can be added around two or more cells on a spreadsheet
+
+**Box plot**: A data visualization that displays the distribution of values along an x-axis
+
+**Bubble chart**: A data visualization that displays individual data points as bubbles, comparing numeric values by their relative size
+
+**Bullet graph**: A data visualization that displays data as a horizontal bar chart moving toward a desired value
+
+**Business metric**: A standard of measurement used to solve a business task
+
+**Business task**: The question or problem data analysis resolves for a business
+
 # C
 
 # D
