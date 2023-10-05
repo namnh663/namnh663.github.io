@@ -12,14 +12,14 @@ nav_order: 2
 
 ![](/assets/images/vela-org.png)
 
-- Managed and supported testing activities for a 6-member team, providing testing strategies that met business and technical requirements.
-- Implemented processes, quality acceptance criteria, and successfully applied the TestCafe framework for regression testing and end-to-end testing to help reduce defect rates and increase test coverage.
-- Implemented continuous integration for the testing framework with GitLab and kept automated scripts updated and maintained.
-- Assigned work according to each member's capacity and regularly organized catch-up meetings to closely monitor work progress, providing professional guidance to increase the quality of the team's work, ensuring compliance with defined regulatory processes and quality standards.
-- Carefully analyzed business requirements and proactively collaborated closely with cross-functional teams to identify and mitigate operational risks early.
-- Configured Jira workflows for the entire project, created dashboards to closely monitor all Jira activities, and generated graphical reports to provide to project management.
-
-**Skills**: TestCafe · Gitlab · JavaScript · Swagger API · Chrome DevTools · Jira · Microsoft Visual Studio Code · Technical expertise · Project Management · Collaboration · Analytical · Problem Solving · Reporting · Documentation · Agile Development Collaboration · Test Automation · Test Planning · Leadership
+- Managed and led the testing team, providing guidance, mentoring, and support to team members.
+- Developed testing processes and indicators to evaluate software quality during the testing phase.
+- Deployed the TestCafe testing framework for regression and end-to-end testing phases, CI with GitLab, and used Tesults to generate test reports.
+- Created scripts that automated tasks and workflows in Jira, built real-time reports, and closely monitored tasks to ensure the team followed the workflow, provided metrics accurately, and made the right decisions based on data.
+- Collaborated closely with the cross-functional team to clarify requirements and protected the DoD to ensure team compliance, maintaining high levels of quality in deliverables.
+- Developed and maintained the overall test strategy and test plan for the project, supervised the execution of test cases, tracked progress, and ensured that testing activities were on track. Resolved issues and blocker that might have hindered testing progress.
+- Established and managed bug reporting and tracking processes. Ensured that errors were logged, root cause analyzed, prioritized, and resolution assigned. Tracked the bug lifecycle until closure.
+- Identified and evaluated risks associated with testing and developed mitigation strategies. Communicated risks to the project team and management.
 
 ## Amanotes Project
 
@@ -53,8 +53,6 @@ nav_order: 2
 - Contributed to writing and improving onboarding processes, reducing the time needed for new hires to become productive.
 - Was responsible for presenting application to stakeholders and consistently received positive feedback.
 
-**Skills**: Integration Testing · Android · iOS · C# · JMeter · Microsoft Azure · HTTP Inspector · Postman API · Microsoft Visual Studio Code · Regression Testing · Process Improvement · Presentation · Communication · Mobile Testing · API Testing
-
 ## Orient Commercial Joint Stock Bank - BPM
 
 [https://ocb.com.vn](https://ocb.com.vn)
@@ -68,8 +66,6 @@ nav_order: 2
 - Transferred knowledge to team members, provided constructive feedback to enhance team productivity and project outcomes.
 - Contributed to the continuous improvement of team working processes, streamlining testing procedures and increasing efficiency.
 
-**Skills**: IBM BPM · Web Testing · Test Design · Analytical Thinking · Test Methodologies · Quality Assurance · Adaptability · Process Improvement · Reporting · Test Planning
-
 ## HDBank
 
 [https://hdbank.com.vn](https://hdbank.com.vn)
@@ -77,5 +73,3 @@ nav_order: 2
 - Implemented rigorous manual testing methodologies, consistently identifying defects and ensuring the adherence to quality standards.
 - Successfully created and executed comprehensive test cases on both website and mobile application, aligning with project requirements and specifications.
 - Conducted training sessions to ensure internal staff can use internal products developed by the technology department.
-
-**Skills**: Android · iOS · Usability analysis · Test Design · Communication · Mobile Testing · Manual Testing
