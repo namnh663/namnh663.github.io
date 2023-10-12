@@ -6,6 +6,7 @@ description: "Portforlio"
 permalink: /
 ---
 
+[playwright_code]: https://github.com/namnh663/parabank-playwright
 [k6_code]: https://github.com/namnh663/k6
 [webdriverio_code]: https://github.com/namnh663/swaglabs-webdriverio
 [robot_code]: https://github.com/namnh663/swaglabs-robot
@@ -14,6 +15,7 @@ permalink: /
 [testcafe_code]: https://github.com/namnh663/vela-testcafe
 [karate_code]: https://github.com/namnh663/ama-karate
 
+[playwright_post]: https://www.linkedin.com/posts/namnh663_automationtesting-playwright-qualityassurance-activity-7117946170752077824-c_f1?utm_source=share&utm_medium=member_desktop
 [k6_post]: https://www.linkedin.com/posts/namnh663_k6-loadtesting-performancetesting-activity-7115444435479384064-c2_3?utm_source=share&utm_medium=member_desktop
 [webdriverio_post]: https://www.linkedin.com/posts/namnh663_webdriverio-webtesting-automationtesting-activity-7104185968659759104-zRnJ?utm_source=share&utm_medium=member_desktop
 [robot_post]: https://www.linkedin.com/posts/namnh663_testing-robotframework-automation-activity-7088958406123814912-VKdG?utm_source=share&utm_medium=member_desktop
@@ -33,20 +35,8 @@ namnh663@gmail.com
 Ho Chi Minh, Vietnam
 {: .label .label-blue }
 
-- 5 years of experience in software testing
-- Familiar with manual testing and automation roles
-- Proficient in different testing methods and test planning
-- Proficient in web and mobile testing
-- Experienced in leading a small team
-- Strong skills attention to detail
-- Excellent at collaborating with teams and working closely
-- Very serious and straightforward when working
-- Love to share and learn new technologies and trends in the software testing industry
-
 {: .highlight }
 **What do you do in your free time?** <br> *Listen to podcasts* · *Learning* · *Go enjoy delicious food and drink* <br> **Favorite podcasts**: <br> *Vietsuccess* · *Vietcetera* · *Hieu Nguyen*
-
-## Skills
 
 - Familiar with software development life cycle (SDLC) models, software testing life cycle (STLC), bug life cycle
 - Familiar with automation frameworks and tools like Appium, JUnit, Cucumber, Robot Framework, TestCafe Framework, Playwright Framework, Karate Framework, Nightwatch.js, WebdriverIO
@@ -81,6 +71,7 @@ Ho Chi Minh, Vietnam
 
 | Project Name         | Framework                                                         | Link                      |
 |:---------------------|:------------------------------------------------------------------|:--------------------------|
+| parabank-playwright  | <img src="/assets/images/playwright.png" width="37" height="30">          | [<> Code][playwright_code]{: .btn .btn-outline } [View post][playwright_post]{: .btn .btn-outline }|
 | k6                   | <img src="/assets/images/k6.png" width="40" height="40">          | [<> Code][k6_code]{: .btn .btn-outline } [View post][k6_post]{: .btn .btn-outline }|
 | swaglabs-webdriverio | <img src="/assets/images/webdriverio.png" width="40" height="45"> | [<> Code][webdriverio_code]{: .btn .btn-outline } [View post][webdriverio_post]{: .btn .btn-outline }|
 | mobile-nightwatch    | <img src="/assets/images/nightwatch.png" width="40" height="45">  | [<> Code][nightwatch_mobile_code]{: .btn .btn-outline } [View post][nightwatch_mobile_post]{: .btn .btn-outline }|
