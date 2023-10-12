@@ -72,10 +72,10 @@ Ho Chi Minh, Vietnam
 | Project Name         | Framework                                                         | Link                      |
 |:---------------------|:------------------------------------------------------------------|:--------------------------|
 | parabank-playwright  | <img src="/assets/images/playwright.png" width="37" height="30">          | [<> Code][playwright_code]{: .btn .btn-outline } [View post][playwright_post]{: .btn .btn-outline }|
-| k6                   | <img src="/assets/images/k6.png" width="40" height="40">          | [<> Code][k6_code]{: .btn .btn-outline } [View post][k6_post]{: .btn .btn-outline }|
-| swaglabs-webdriverio | <img src="/assets/images/webdriverio.png" width="40" height="45"> | [<> Code][webdriverio_code]{: .btn .btn-outline } [View post][webdriverio_post]{: .btn .btn-outline }|
-| mobile-nightwatch    | <img src="/assets/images/nightwatch.png" width="40" height="45">  | [<> Code][nightwatch_mobile_code]{: .btn .btn-outline } [View post][nightwatch_mobile_post]{: .btn .btn-outline }|
-| swaglabs-nightwatch  | <img src="/assets/images/nightwatch.png" width="40" height="45">  | [<> Code][nightwatch_web_code]{: .btn .btn-outline } [View post][nightwatch_web_post]{: .btn .btn-outline }|
-| swaglabs-robot       | <img src="/assets/images/robot.png" width="40" height="45">       | [<> Code][robot_code]{: .btn .btn-outline } [View post][robot_post]{: .btn .btn-outline }|
+| k6                   | <img src="/assets/images/k6.png" width="35" height="35">          | [<> Code][k6_code]{: .btn .btn-outline } [View post][k6_post]{: .btn .btn-outline }|
+| swaglabs-webdriverio | <img src="/assets/images/webdriverio.png" width="35" height="40"> | [<> Code][webdriverio_code]{: .btn .btn-outline } [View post][webdriverio_post]{: .btn .btn-outline }|
+| mobile-nightwatch    | <img src="/assets/images/nightwatch.png" width="35" height="40">  | [<> Code][nightwatch_mobile_code]{: .btn .btn-outline } [View post][nightwatch_mobile_post]{: .btn .btn-outline }|
+| swaglabs-nightwatch  | <img src="/assets/images/nightwatch.png" width="35" height="40">  | [<> Code][nightwatch_web_code]{: .btn .btn-outline } [View post][nightwatch_web_post]{: .btn .btn-outline }|
+| swaglabs-robot       | <img src="/assets/images/robot.png" width="35" height="40">       | [<> Code][robot_code]{: .btn .btn-outline } [View post][robot_post]{: .btn .btn-outline }|
 | vela-testcafe        | <img src="/assets/images/testcafe.png" width="42" height="30">    | [<> Code][testcafe_code]{: .btn .btn-outline } [View post][testcafe_post]{: .btn .btn-outline }|
-| ama-karate           | <img src="/assets/images/karate.png" width="42" height="42">      | [<> Code][karate_code]{: .btn .btn-outline } [View post][karate_post]{: .btn .btn-outline }|
+| ama-karate           | <img src="/assets/images/karate.png" width="37" height="37">      | [<> Code][karate_code]{: .btn .btn-outline } [View post][karate_post]{: .btn .btn-outline }|
