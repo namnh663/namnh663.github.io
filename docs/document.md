@@ -251,19 +251,7 @@ Steps to reproduce:
 
 ## Bug Report
 
-| Fields         | Value                                                                                  |
-|:---------------|:---------------------------------------------------------------------------------------|
-| Summary        | The account is not locked but can't log in                                             |
-| Root cause     | Code                                                                                   |
-| Priority       | Medium                                                                                 |
-| Environment    | Test                                                                                   |
-| Platform       | Web                                                                                    |
-| Browser        | Chrome                                                                                 |
-| Description    | Given user go to 'https://www.saucedemo.com/'<br> When user enter 'standard_user' to username textbox <br> And user enter 'secret_sauce' to password textbox<br>And user click Login button <br> Then user see 'Epic sadface: Sorry, this user has been locked out.' error message <br> <br> **Expected**:  User should go to home page |
-| Related Issues | Login User Story                                                                       |
-| Assignee       | Andrew                                                                                 |
-| Reporter       | Me                                                                                     |
-| Sprint         | Sprint 1                                                                               |
+[View Bug Report](https://swaglabs.almanac.io/docs/bug-report-template-9sBBi1stle8PHVQezELGfdhc0QXmBs6D){: .btn .btn-outline }
 
 # Database
 
