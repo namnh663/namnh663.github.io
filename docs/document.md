@@ -19,53 +19,7 @@ nav_order: 3
 
 ## User Story
 
-Logging in to www.saucedemo.com
-
-**As** a registered user of www.saucedemo.com,
-
-**I want to** log in to my account,
-
-**So that I can** make purchases on the website.
-
-**Acceptance Criteria:**
-
-1. **Given** I am on the www.saucedemo.com homepage,
-
-   **When** I click on the "Login" button,
-
-   **Then** I should be redirected to the login page.
-
-2. **Given** I am on the login page,
-
-   **When** I enter my valid username and password,
-
-   **Then** I should see a confirmation message, and I should be logged in to my account.
-
-3. **Given** I am on the login page,
-
-   **When** I enter an invalid username or password,
-
-   **Then** I should see an error message indicating that my login credentials are incorrect.
-
-4. **Given** I am logged in,
-
-   **When** I browse the website and select products,
-
-   **Then** I should be able to add products to my cart and proceed with the checkout process.
-
-5. **Given** I am logged out of my account,
-
-   **When** I click the "Log Out" button,
-
-   **Then** I should be logged out and redirected to the homepage.
-
-**Definition of Done:**
-
-- The user can successfully log in to their account.
-- The user can browse and add products to their cart.
-- The user receives appropriate feedback for login success or failure.
-- The "Log Out" functionality is working as expected.
-
+![](/assets/images/user-story.png)
 
 ## Test Plan
 
@@ -203,6 +157,8 @@ Logging in to www.saucedemo.com
 ## Test Case
 
 ### Google Sheet Test Case
+
+<br>
 
 ![](/assets/images/google-sheet-test-case.png)
 
