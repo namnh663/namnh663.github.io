@@ -65,6 +65,8 @@ Ho Chi Minh, Vietnam
 - Experienced in implementing test automation framework from scratch
 - Proficient in several programming languages, such as Java, Python, JavaScript
 
+![](/assets/images/exp.png)
+
 | Familiar With Database Tools                                                                                      |
 |:------------------------------------------------------------------------------------------------------------------|
 | <img src="/assets/images/dbgate.png" width="52" height="52"> <img src="/assets/images/sql-developer.png" width="45" height="50"> |
