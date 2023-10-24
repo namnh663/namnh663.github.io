@@ -84,17 +84,7 @@ Ho Chi Minh, Vietnam
 
 ## Certifications
 
-### Google Data Analytics Certificate
-
 ![](/assets/images/google-data-analytics-certificate.png)
 ![](/assets/images/google-project-management-certificate.png)
 
-### Google Project Management Certificate
-
-![](/assets/images/google-project-management-certificate.png)
-
-### LambdaTest Software Testing Professional Certificate
-
-<br>
-
-[View Certificate][lambdatest_certificate]{: .btn .btn-outline }
+<img src="/assets/images/lambda-test-certificate.png" width="390" height="300">
