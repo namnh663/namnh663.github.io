@@ -158,23 +158,8 @@ nav_order: 2
 
 ### Google Sheet Test Case
 
-<br>
-
-![](/assets/images/google-sheet-test-case.png)
-
-[View Test Case](https://docs.google.com/spreadsheets/d/1HE1bMMztXkqoShD0vNOh_FE6va96WYkIiDsquOLHhCY/edit?usp=sharing){: .btn .btn-outline }
-
-### Qase Test Case
-
-User successfully logged in with correct username and password
-
-Steps to reproduce:
-
-![](/assets/images/qase-test-case.png)
-
+[View Test Case](https://docs.google.com/spreadsheets/d/1HE1bMMztXkqoShD0vNOh_FE6va96WYkIiDsquOLHhCY/edit?usp=sharing)
 
 ## Bug Report
 
-<br>
-
-[View Bug Report](https://swaglabs.almanac.io/docs/bug-report-template-9sBBi1stle8PHVQezELGfdhc0QXmBs6D){: .btn .btn-outline }
+[View Bug Report](https://swaglabs.almanac.io/docs/bug-report-template-9sBBi1stle8PHVQezELGfdhc0QXmBs6D)
