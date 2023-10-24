@@ -156,8 +156,6 @@ nav_order: 2
 
 ## Test Case
 
-### Google Sheet Test Case
-
 [View Test Case](https://docs.google.com/spreadsheets/d/1HE1bMMztXkqoShD0vNOh_FE6va96WYkIiDsquOLHhCY/edit?usp=sharing)
 
 ## Bug Report

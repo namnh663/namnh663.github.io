@@ -29,6 +29,4 @@ nav_order: 3
 
 [Download](https://dbgate.org/download){: .btn .btn-outline }
 
-### Query
-
-[Example](https://swaglabs.almanac.io/docs/dbgate-N0z76wJ7dWF6bIKG99321W97MaYVX8Cp){: .btn .btn-outline }
+[Query Example](https://swaglabs.almanac.io/docs/dbgate-N0z76wJ7dWF6bIKG99321W97MaYVX8Cp){: .btn .btn-outline }
