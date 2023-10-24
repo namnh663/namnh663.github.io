@@ -6,6 +6,8 @@ description: "Portforlio"
 permalink: /
 ---
 
+[lambdatest_certificate]: https://www.linkedin.com/learning/certificates/c5567f388c13e6a0ce96700e940d93694522b911a01416ac4c04b5d621fbc4b9
+
 [playwright_code]: https://github.com/namnh663/parabank-playwright
 [k6_code]: https://github.com/namnh663/k6
 [webdriverio_code]: https://github.com/namnh663/swaglabs-webdriverio
@@ -79,3 +81,17 @@ Ho Chi Minh, Vietnam
 | swaglabs-robot       | <img src="/assets/images/robot.png" width="35" height="40">       | [<> Code][robot_code]{: .btn .btn-outline } [View post][robot_post]{: .btn .btn-outline }|
 | vela-testcafe        | <img src="/assets/images/testcafe.png" width="42" height="30">    | [<> Code][testcafe_code]{: .btn .btn-outline } [View post][testcafe_post]{: .btn .btn-outline }|
 | ama-karate           | <img src="/assets/images/karate.png" width="37" height="37">      | [<> Code][karate_code]{: .btn .btn-outline } [View post][karate_post]{: .btn .btn-outline }|
+
+## Certifications
+
+### Google Data Analytics Certificate
+
+[View Certificate][https://www.credly.com/badges/903a15a2-6ffe-4aa5-afc0-952fc55ea4e1]{: .btn .btn-outline }
+
+### Google Project Management Certificate
+
+[View Certificate][https://www.credly.com/badges/b6b5ef18-c07c-4aa6-b75e-514b96b009f8]{: .btn .btn-outline }
+
+### LambdaTest Software Testing Professional Certificate
+
+[View Certificate][lambdatest_certificate]{: .btn .btn-outline }
