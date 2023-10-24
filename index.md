@@ -92,9 +92,7 @@ Ho Chi Minh, Vietnam
 
 ### Google Project Management Certificate
 
-<br>
-
-[View Certificate](https://www.credly.com/badges/b6b5ef18-c07c-4aa6-b75e-514b96b009f8){: .btn .btn-outline }
+![](/assets/images/google-project-management-certificate.png)
 
 ### LambdaTest Software Testing Professional Certificate
 
