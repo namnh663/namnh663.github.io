@@ -86,12 +86,18 @@ Ho Chi Minh, Vietnam
 
 ### Google Data Analytics Certificate
 
-[View Certificate][https://www.credly.com/badges/903a15a2-6ffe-4aa5-afc0-952fc55ea4e1]{: .btn .btn-outline }
+<br>
+
+[View Certificate](https://www.credly.com/badges/903a15a2-6ffe-4aa5-afc0-952fc55ea4e1){: .btn .btn-outline }
 
 ### Google Project Management Certificate
 
-[View Certificate][https://www.credly.com/badges/b6b5ef18-c07c-4aa6-b75e-514b96b009f8]{: .btn .btn-outline }
+<br>
+
+[View Certificate](https://www.credly.com/badges/b6b5ef18-c07c-4aa6-b75e-514b96b009f8){: .btn .btn-outline }
 
 ### LambdaTest Software Testing Professional Certificate
+
+<br>
 
 [View Certificate][lambdatest_certificate]{: .btn .btn-outline }
