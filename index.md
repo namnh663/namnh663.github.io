@@ -86,9 +86,8 @@ Ho Chi Minh, Vietnam
 
 ### Google Data Analytics Certificate
 
-<br>
-
-[View Certificate](https://www.credly.com/badges/903a15a2-6ffe-4aa5-afc0-952fc55ea4e1){: .btn .btn-outline }
+![](/assets/images/google-data-analytics-certificate.png)
+![](/assets/images/google-project-management-certificate.png)
 
 ### Google Project Management Certificate
 
