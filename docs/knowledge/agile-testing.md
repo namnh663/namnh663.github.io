@@ -2,7 +2,7 @@
 layout: default
 title: Agile Testing
 parent: Knowledge
-nav_order: 4
+nav_order: 5
 ---
 
 # Agile Testing
