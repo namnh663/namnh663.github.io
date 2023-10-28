@@ -68,7 +68,7 @@ Ho Chi Minh, Vietnam
 
 | Familiar With Programming Languages |
 |:--------------------------------------------------------------------------------------|
-| <img src="/assets/images/js.png" width="40" height="40"> <img src="/assets/images/python.svg" width="40" height="40"> <img src="/assets/images/java.svg" width="40" height="40"> |
+| <img src="/assets/images/js.png" width="40" height="40"> <img src="/assets/images/ts.svg" width="40" height="40"> <img src="/assets/images/py.svg" width="40" height="40"> <img src="/assets/images/java.svg" width="40" height="40"> |
 
 | Familiar With Database Tools |
 |:--------------------------------------------------------------------------------------|
