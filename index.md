@@ -63,12 +63,15 @@ Ho Chi Minh, Vietnam
   - Usability Testing: Exploratory, Browser
 - Performing demo sessions
 - Experienced in implementing test automation framework from scratch
-- Proficient in several programming languages, such as Java, Python, JavaScript
 
 ![](/assets/images/exp.png)
 
-| Familiar With Database Tools                                                                                      |
-|:------------------------------------------------------------------------------------------------------------------|
+| Familiar With Programming Languages |
+|:--------------------------------------------------------------------------------------|
+| <img src="/assets/images/js.png" width="40" height="40"> <img src="/assets/images/python.svg" width="40" height="40"> <img src="/assets/images/java.svg" width="40" height="40"> |
+
+| Familiar With Database Tools |
+|:--------------------------------------------------------------------------------------|
 | <img src="/assets/images/dbgate.png" width="52" height="52"> <img src="/assets/images/sql-developer.png" width="45" height="50"> |
 
 ## Projects
