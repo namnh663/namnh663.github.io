@@ -45,3 +45,20 @@ Here are some key aspects and objectives of System Testing:
 4. **Usability Testing:** System testing may also include usability assessments to check if the user interface is intuitive and user-friendly.
 
 5. **Data Integrity Testing:** For systems that deal with data storage and retrieval, data integrity is checked to ensure that data remains consistent and accurate.
+
+## Regression Testing
+
+Regression testing is a software testing method that involves rerunning functional and non-functional tests to ensure that code changes do not affect old or existing product functionality.
+
+Regression testing is important for a number of reasons, including:
+
+* To ensure the quality of the software: By rerunning the test after making code changes, regression testing helps ensure that the software still works as expected and that there are no new bugs.
+* To reduce the cost of fixing bugs: Regression testing helps identify bugs early, helping organizations save a significant amount of money.
+* To improve customer satisfaction: By ensuring that software is reliable and error-free, regression testing can help improve customer satisfaction.
+
+Here are some specific examples of when to perform regression testing:
+
+* After adding a new login feature to your website, regression testing should be performed to ensure that all existing users can still log in successfully.
+* After integrating a new payment method with your e-commerce website, regression testing should be performed to ensure that the payment process still works correctly and that all payment transactions are processed successfully.
+
+In addition to performing regression testing after every code change, you should also perform regression testing on a regular basis, even when no changes are made to the code. This is because bugs can enter software in many different ways, such as through configuration changes, environmental changes, or even human error.
