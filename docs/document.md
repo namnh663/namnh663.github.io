@@ -32,3 +32,8 @@ nav_order: 2
 ## Bug Report
 
 [View Bug Report](https://swaglabs.almanac.io/docs/bug-report-template-9sBBi1stle8PHVQezELGfdhc0QXmBs6D)
+
+# Useful Websites
+
+[Generate Test Data](https://generatedata.com/)
+[Mac Keyboard Shortcuts](https://support.apple.com/en-vn/HT201236)
