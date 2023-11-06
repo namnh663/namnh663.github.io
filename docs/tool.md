@@ -31,6 +31,8 @@ nav_order: 3
 
 [Query Example](https://swaglabs.almanac.io/docs/dbgate-N0z76wJ7dWF6bIKG99321W97MaYVX8Cp){: .btn .btn-outline }
 
+# Screen Capture
+
 ## ScreenToGif (Windows)
 
 ![](https://www.screentogif.com/img/Startup.81fa6bd3.png)
