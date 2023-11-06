@@ -47,3 +47,9 @@ The Scrum principles are the rules that govern how Scrum is implemented. The fiv
 * **Improved quality:** Scrum teams produce high-quality products because they are constantly testing and refactoring their work.
 * **Enhanced productivity:** Scrum teams are able to deliver more work in less time.
 * **Increased team morale:** Scrum teams are more engaged and motivated because they have more autonomy and control over their work.
+
+Scrum is a versatile framework that can be applied to a wide range of projects. However, it is most effective for projects that meet the following criteria:
+
+* **Complex and uncertain:** Scrum is well-suited for projects where the requirements are not fully defined or where there is a high degree of uncertainty. This is because Scrum allows teams to adapt to changes quickly and easily.
+* **Requires frequent feedback:** Scrum is also effective for projects that require frequent feedback from stakeholders. This is because Scrum includes regular opportunities for feedback, such as sprint reviews and retrospectives.
+* **Cross-functional teams:** Scrum is best implemented with cross-functional teams that have the skills and expertise to complete the work. This is because Scrum relies on self-organization and collaboration.
