@@ -2,7 +2,7 @@
 layout: default
 title: Types of Testing
 parent: Knowledge
-nav_order: 3
+nav_order: 4
 ---
 
 # Types of Testing
