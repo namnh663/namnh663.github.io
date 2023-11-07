@@ -36,7 +36,7 @@ Once you have designed your test cases, you should review them with other team m
 
 ## Analyze the requirements
 
-1. Understand the requirements
+**Understand the requirements**:
 
 The first step is to thoroughly understand the requirements you are testing. This means reading the requirements document carefully and asking any clarifying questions you have.
 
@@ -46,13 +46,13 @@ For example, if the requirement is "Users must be able to log in to the system u
 * What happens if a user enters an invalid username or password?
 * How many times can a user try to log in before being locked out?
 
-2. Identify different types of requirements
+**Identify different types of requirements**:
 
 There are different types of requirements, such as functional requirements, non-functional requirements, and acceptance criteria. Functional requirements describe what the system should do, while non-functional requirements describe how the system should function. Acceptance criteria are specific conditions that must be met for a requirement to be considered fulfilled.
 
 For example, a functional requirement for a login system might be: "Users must be able to log in to the system using their username and password.", while a non-functional requirement might be : "The login system must be able to handle 100 concurrent users."
 
-3. Prioritize requirements
+**Prioritize requirements**:
 
 Not all requests are created equal. Some requirements are more important than others. By clarifying requirements, you can focus your efforts on the most important requirements.
 
