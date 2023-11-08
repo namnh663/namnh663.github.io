@@ -29,6 +29,10 @@ nav_order: 2
 
 [View Test Case](https://docs.google.com/spreadsheets/d/1HE1bMMztXkqoShD0vNOh_FE6va96WYkIiDsquOLHhCY/edit?usp=sharing)
 
+## Test Pass Criteria
+
+[View Test Pass Criteria](https://swaglabs.almanac.io/docs/test-pass-criteria-Z66B4jWneidaTqH0FKsWEBSAItPhxvR4)
+
 ## Bug Report
 
 [View Bug Report](https://swaglabs.almanac.io/docs/bug-report-template-9sBBi1stle8PHVQezELGfdhc0QXmBs6D)
