@@ -16,6 +16,8 @@ nav_order: 7
 {:toc}
 </details>
 
+## Designed with A Traditional Approach
+
 To design effective test cases, you need to follow a few key steps:
 
 1. **Identify the test objectives:** What do you want to test? What functionality or behavior are you trying to verify?
@@ -67,7 +69,7 @@ Not all requests are created equal. Some requirements are more important than ot
 
 For example, requiring that users be able to log in to the system is more important than requiring that the login system be able to handle 100 concurrent users. This is because users will not be able to use the system if they cannot log in.
 
-## Design with BDD approach
+## Design with BDD Approach
 
 1. **Understand the Feature:**
    - Before writing BDD test cases, make sure you have a thorough understanding of the feature or user story you are testing. Collaborate with stakeholders to clarify requirements.
