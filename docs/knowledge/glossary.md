@@ -77,6 +77,20 @@ nav_order: 1
 
 # E
 
+**Elevator pitch**: A short statement describing an idea or concept
+
+**Emphasis**: The design principle of arranging visual elements to focus the audience’s attention on important information in a data visualization
+
+**Engagement**: Capturing and holding someone’s interest and attention during a data presentation
+
+**Equation**: A calculation that involves addition, subtraction, multiplication, or division (also called a math expression)
+
+**Estimated response rate**: The average number of people who typically complete a survey
+
+**Ethics**: Well-founded standards of right and wrong that prescribe what humans ought to do, usually in terms of rights, obligations, benefits to society, fairness, or specific virtues
+
+**External data**: Data that lives, and is generated, outside of an organization
+
 # F
 
 # G
