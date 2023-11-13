@@ -41,6 +41,10 @@ nav_order: 2
 
 [Generate Test Data](https://generatedata.com/)
 
+[Character Counter](https://wordcounter.net/character-count)
+
+[JSON Viewer](https://jsonhero.io/)
+
 [Mac Keyboard Shortcuts](https://support.apple.com/en-vn/HT201236)
 
 [Epoch & Unix Timestamp Conversion Tools](https://unixtime.org/)
