@@ -5,7 +5,16 @@ parent: Knowledge
 nav_order: 9
 ---
 
-# Behavior Driven Development
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 Behavior-Driven Development (BDD) is a software development approach that extends the principles of Test-Driven Development (TDD) to focus on the behavior of a software system from the user's perspective. BDD is a collaborative and iterative process that encourages communication between developers, testers, and non-technical stakeholders to define and understand the desired behavior of a software application.
 

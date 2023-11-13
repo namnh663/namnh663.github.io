@@ -5,7 +5,16 @@ parent: Knowledge
 nav_order: 7
 ---
 
-# Test Case Design
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 To design effective test cases, you need to follow a few key steps:
 
