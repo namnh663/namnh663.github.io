@@ -93,7 +93,6 @@ For example, requiring that users be able to log in to the system is more import
    - Use the Background section in your feature file to set up the initial context that is common to multiple scenarios. This reduces repetition and enhances readability.
 
 8. **Use Scenario Outline for Data Variations:**
-   - If your scenario involves multiple sets of data, use the Scenario Outline keyword. This allows you to write a scenario template and provide different data sets for testing variations.
 
     ```plaintext
     Scenario Outline: User Authentication
