@@ -15,6 +15,12 @@ nav_order: 2
 {:toc}
 </details>
 
+# Checklist
+
+## Mobile Testing
+
+[View Checklist](https://docs.google.com/spreadsheets/d/1YwL6Gc3uExZC4tf6sux6fL6Wft5RlLPgesJbKjb3DjU/edit?usp=sharing)
+
 # Template
 
 ## User Story
