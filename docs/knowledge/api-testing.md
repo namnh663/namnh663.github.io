@@ -5,7 +5,16 @@ parent: Knowledge
 nav_order: 9
 ---
 
-# API Testing
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## HTTP methods
 
@@ -26,8 +35,6 @@ Here are some commonly used HTTP methods:
 6. **HEAD:** The HEAD method is similar to GET but retrieves only the headers of the response, not the actual data content. It is often used to check the status and metadata of a resource without downloading the entire resource.
 
 7. **OPTIONS:** The OPTIONS method is used to retrieve information about the communication options available for the target resource. It can provide details about supported HTTP methods, headers, and other communication parameters.
-
-These HTTP methods provide a standardized way for clients and servers to interact with web resources. The choice of method depends on the intended operation, whether it is retrieving data, updating resources, submitting form data, or performing other actions on the web. Each HTTP method has a specific purpose and usage pattern, making it an essential part of web communication and the foundation of web services and APIs.
 
 ## HTTP status codes
 
@@ -63,3 +70,57 @@ HTTP status codes are three-digit numbers returned by a web server in response t
    - **503 (Service Unavailable):** The server is currently unable to handle the request, typically due to overloading or maintenance.
 
 HTTP status codes are an important part of the HTTP protocol and are used by web applications and browsers to understand the outcome of a request, enabling appropriate actions or responses. They are crucial for diagnosing and debugging issues in web communication.
+
+## RESTful APIs
+
+**Representational State Transfer (REST)** is an architectural style for designing and developing networked applications. It was first proposed by Roy Fielding in his 2000 doctoral dissertation, and it has since become the most widely used approach for building web APIs.
+
+**Key Principles of REST**
+
+1. **Client-server architecture:** Clients and servers are separate components that communicate through a well-defined interface.
+
+2. **Statelessness:** Each request from a client to a server must contain all the information necessary to complete the request. The server does not store any client-specific information between requests.
+
+3. **Cacheability:** Both clients and servers can cache responses to improve performance.
+
+4. **Uniform interface:** Clients interact with resources using a consistent set of operations, such as GET, POST, PUT, and DELETE.
+
+5. **Layered system:** Components can be layered on top of each other to provide additional functionality, such as security or load balancing.
+
+6. **Code on demand (optional):** Clients can download and execute code from the server to extend their functionality.
+
+**RESTful APIs and HTTP Methods**
+
+RESTful APIs use HTTP methods to perform operations on resources. 
+
+**URL Structure in RESTful APIs**
+
+URLs in RESTful APIs are used to identify resources. The URL structure should be consistent and easy to understand. For example, the URL `/users/1` could be used to identify the user with the ID 1.
+
+**Benefits of RESTful APIs**
+
+* **Simple and easy to understand:** The principles of REST are straightforward, and the use of HTTP methods and URLs is familiar to many developers.
+
+* **Flexible:** REST can accommodate a wide range of applications, from simple data retrieval to complex e-commerce systems.
+
+* **Scalable:** RESTful APIs can handle a large number of concurrent users and requests.
+
+* **Interoperable:** RESTful APIs can easily interact with other systems that also follow REST principles.
+
+**Example of RESTful API Interaction**
+
+Consider a RESTful API for managing a book catalog. A client can use the following requests to interact with the API:
+
+* `GET /books`: Retrieves a list of all books in the catalog.
+
+* `GET /books/1`: Retrieves the details of the book with the ID 1.
+
+* `POST /books`: Creates a new book with the provided title, author, and ISBN.
+
+* `PUT /books/1`: Updates the details of the book with the ID 1.
+
+* `DELETE /books/1`: Removes the book with the ID 1 from the catalog.
+
+**Conclusion**
+
+REST is a powerful and flexible architectural style that is well-suited for developing web APIs. RESTful APIs are simple to understand, easy to implement, and can scale to handle a large number of users. As a result, REST has become the dominant approach for building web-based applications.
