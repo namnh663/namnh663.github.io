@@ -107,20 +107,78 @@ URLs in RESTful APIs are used to identify resources. The URL structure should be
 
 * **Interoperable:** RESTful APIs can easily interact with other systems that also follow REST principles.
 
-**Example of RESTful API Interaction**
+## Example of API Testing
 
-Consider a RESTful API for managing a book catalog. A client can use the following requests to interact with the API:
+In this example, we'll use a fictitious API for a book catalog.
 
-* `GET /books`: Retrieves a list of all books in the catalog.
+Let's say we have an API endpoint for retrieving information about a book. The endpoint is:
 
-* `GET /books/1`: Retrieves the details of the book with the ID 1.
+```
+GET /api/books/{book_id}
+```
 
-* `POST /books`: Creates a new book with the provided title, author, and ISBN.
+This endpoint accepts a book ID as a parameter and returns information about the specified book in JSON format.
 
-* `PUT /books/1`: Updates the details of the book with the ID 1.
+Here's an example of how you might test this API using a tool like cURL or a testing framework like Postman.
 
-* `DELETE /books/1`: Removes the book with the ID 1 from the catalog.
+1. **Test Case 1: Retrieve Book Information**
 
-**Conclusion**
+    - **Request:**
+        ```bash
+        curl -X GET http://example.com/api/books/123
+        ```
 
-REST is a powerful and flexible architectural style that is well-suited for developing web APIs. RESTful APIs are simple to understand, easy to implement, and can scale to handle a large number of users. As a result, REST has become the dominant approach for building web-based applications.
+    - **Expected Response:**
+        ```json
+        {
+            "id": 123,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "publication_year": 1925
+        }
+        ```
+
+    - **Test Steps:**
+        - Send a GET request to the API endpoint with a valid book ID (e.g., 123).
+        - Verify that the response status code is 200 (OK).
+        - Check that the response JSON includes the expected book information (title, author, publication year).
+
+2. **Test Case 2: Invalid Book ID**
+
+    - **Request:**
+        ```bash
+        curl -X GET http://example.com/api/books/999
+        ```
+
+    - **Expected Response:**
+        ```json
+        {
+            "error": "Book not found"
+        }
+        ```
+
+    - **Test Steps:**
+        - Send a GET request to the API endpoint with an invalid book ID (e.g., 999).
+        - Verify that the response status code is 404 (Not Found).
+        - Check that the response JSON includes an error message indicating that the book was not found.
+
+3. **Test Case 3: Missing Book ID**
+
+    - **Request:**
+        ```bash
+        curl -X GET http://example.com/api/books/
+        ```
+
+    - **Expected Response:**
+        ```json
+        {
+            "error": "Missing book ID"
+        }
+        ```
+
+    - **Test Steps:**
+        - Send a GET request to the API endpoint without providing a book ID.
+        - Verify that the response status code is 400 (Bad Request).
+        - Check that the response JSON includes an error message indicating that the book ID is missing.
+
+These are just basic examples to get you started with API testing. In a real-world scenario, you would likely have more test cases, including those for different HTTP methods (POST, PUT, DELETE), authentication, and edge cases.
