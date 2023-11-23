@@ -33,7 +33,9 @@ nav_order: 2
 
 ## Test Case
 
-[View Test Case](https://docs.google.com/spreadsheets/d/1HE1bMMztXkqoShD0vNOh_FE6va96WYkIiDsquOLHhCY/edit?usp=sharing)
+[View Sheets Test Case](https://docs.google.com/spreadsheets/d/1HE1bMMztXkqoShD0vNOh_FE6va96WYkIiDsquOLHhCY/edit?usp=sharing)
+
+[View Gherkin Test Case](https://wiki.almanac.io/docs/gherkin-template-IU0fuoJj5oCob6gkKrFWOSJaZqdRWgBb)
 
 ## Test Pass Criteria
 
