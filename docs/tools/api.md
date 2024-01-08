@@ -18,9 +18,11 @@ nav_order: 1
 
 ## Postman
 
-### Knowledge
+Postman is a versatile tool that caters to different aspects of the API development and testing workflow. It's widely used by developers, testers, and API designers, making it a valuable asset for building and ensuring the quality of modern web applications.
 
- **Here's a breakdown of the must-have knowledge for testing APIs with Postman:**
+[Download](https://www.postman.com/downloads){: .btn .btn-outline }
+
+### Knowledge
 
 **1. Understanding API Fundamentals:**
 
