@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Tool
-nav_order: 3
+title: Database
+parent: Tools
+nav_order: 2
 ---
 
 {: .no_toc }
@@ -14,8 +15,6 @@ nav_order: 3
 - TOC
 {:toc}
 </details>
-
-# Database
 
 ## DbGate
 
@@ -30,13 +29,3 @@ nav_order: 3
 [Download](https://dbgate.org/download){: .btn .btn-outline }
 
 [Query Example](https://swaglabs.almanac.io/docs/dbgate-N0z76wJ7dWF6bIKG99321W97MaYVX8Cp){: .btn .btn-outline }
-
-# Recorder
-
-## ScreenToGif (Windows)
-
-![](https://www.screentogif.com/img/Startup.81fa6bd3.png)
-
-Screen, webcam and sketchboard recorder with an integrated editor
-
-[Download](https://www.screentogif.com/downloads){: .btn .btn-outline }
