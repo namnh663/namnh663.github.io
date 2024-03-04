@@ -3,7 +3,7 @@ layout: default
 title: HTTP Methods
 parent: API Testing
 grand_parent: Knowledge
-nav_order: 1
+nav_order: 2
 ---
 
 # HTTP Methods
