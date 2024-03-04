@@ -3,7 +3,7 @@ layout: default
 title: RESTful APIs
 parent: API Testing
 grand_parent: Knowledge
-nav_order: 4
+nav_order: 5
 ---
 
 # RESTful APIs
